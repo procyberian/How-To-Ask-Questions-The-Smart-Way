@@ -44,9 +44,9 @@ Copyright © 2001,2006,2014 Eric S. Raymond, Rick Moen
 | Major addition of stuff about proper etiquette on Web forums. |             |      |
 
 ------
-## Table of Contents
+## İçindekiler
 
-- [Çeviriler](#translations)
+- [Çeviriler](#Çeviriler)
 - [Sorumluluk reddi beyanı](#sorumluluk-reddi-beyanı)
 - [Giriş](#Giriş)
 - [Sorunuzu Sormadan Önce](#Sorunuzu-Sormadan-Önce)
