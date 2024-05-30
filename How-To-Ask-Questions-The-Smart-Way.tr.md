@@ -611,7 +611,7 @@ Soruyu cevaplamak için araştırma yaptıysanız, *cevabınızı kıçınızdan
 
 ## Konuyla ilgili diğer kaynaklar
 
-Kişisel bilgisayarların, Unix'in ve İnternet'in nasıl çalıştığına ilişkin temel bilgiler konusunda eğitime ihtiyacınız varsa, bkz. [Unix ve İnternetin Temelleri NASIL](http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO) /).
+Kişisel bilgisayarların, Unix'in ve İnternet'in nasıl çalıştığına ilişkin temel bilgiler konusunda eğitime ihtiyacınız varsa, bkz. [Unix ve İnternetin Temelleri NASIL](http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO)
 
 Yazılımı yayınladığınızda veya yazılım için yamalar yazarken, [Yazılım Sürümü Uygulaması NASIL](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/index.html) belgesindeki yönergeleri izlemeye çalışın.
 
