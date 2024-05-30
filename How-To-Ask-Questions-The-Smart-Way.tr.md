@@ -505,7 +505,7 @@ Kendinizi de bir alev savaşının içine çekmenize izin vermeyin. Çoğu alevi
 İşte bazı klasik aptal sorular ve bilgisayar üstadlarının bu soruları yanıtlamadıklarında ne düşündükleri.
 
 
--S: [X programını veya kaynağını nerede bulabilirim?](http://www.catb.org/~esr/faqs/smart-questions.html#idm46060474018960)
+- S: [X programını veya kaynağını nerede bulabilirim?](http://www.catb.org/~esr/faqs/smart-questions.html#idm46060474018960)
 - S: [Y'yi yapmak için X'i nasıl kullanabilirim?](http://www.catb.org/~esr/faqs/smart-questions.html#idm46060474016288)
 - S: [Kabuk istemimi nasıl yapılandırabilirim?](http://www.catb.org/~esr/faqs/smart-questions.html#idm46060474013936)
 - S: [Bass-o-matic dosya dönüştürücüyü kullanarak bir AcmeCorp belgesini TeX dosyasına dönüştürebilir miyim?](http://www.catb.org/~esr/faqs/smart-questions.html#idm46060474011312)
