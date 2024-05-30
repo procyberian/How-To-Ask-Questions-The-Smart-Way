@@ -47,7 +47,7 @@ Copyright © 2001,2006,2014 Eric S. Raymond, Rick Moen
 ## Table of Contents
 
 - [Translations](#translations)
-- [Disclaimer](#disclaimer)
+- [Disclaimer](#sorumluluk-reddi-beyanı)
 - [Introduction](#introduction)
 - [Before You Ask](#before-you-ask)
 - [When You Ask](#when-you-ask)
