@@ -504,7 +504,8 @@ Kendinizi de bir alev savaşının içine çekmenize izin vermeyin. Çoğu alevi
 
 İşte bazı klasik aptal sorular ve bilgisayar üstadlarının bu soruları yanıtlamadıklarında ne düşündükleri.
 
-- S: [X programını veya kaynağını nerede bulabilirim?](http://www.catb.org/~esr/faqs/smart-questions.html#idm46060474018960)
+
+-S: [X programını veya kaynağını nerede bulabilirim?](http://www.catb.org/~esr/faqs/smart-questions.html#idm46060474018960)
 - S: [Y'yi yapmak için X'i nasıl kullanabilirim?](http://www.catb.org/~esr/faqs/smart-questions.html#idm46060474016288)
 - S: [Kabuk istemimi nasıl yapılandırabilirim?](http://www.catb.org/~esr/faqs/smart-questions.html#idm46060474013936)
 - S: [Bass-o-matic dosya dönüştürücüyü kullanarak bir AcmeCorp belgesini TeX dosyasına dönüştürebilir miyim?](http://www.catb.org/~esr/faqs/smart-questions.html#idm46060474011312)
@@ -514,42 +515,24 @@ Kendinizi de bir alev savaşının içine çekmenize izin vermeyin. Çoğu alevi
 - S: [Linux veya X'i yüklerken sorun yaşıyorum. Yardım edebilir misiniz?](http://www.catb.org/~esr/faqs/smart-questions.html#idm46060473999136)
 - S: [Kökü nasıl kırabilirim/kanal operasyon ayrıcalıklarını nasıl çalabilirim/birinin e-postasını nasıl okuyabilirim?](http://www.catb.org/~esr/faqs/smart-questions.html#idm46060473994832)
 
-| **S:** | X programını veya kaynağını nerede bulabilirim? |
-
-| ------ | -------------------------------------------------- ---------- |
-
+| **S:** | X programını veya kaynağını nerede bulabilirim?              |
+| ------ | ------------------------------------------------------------ |
 | **C:** | Onu bulacağım yerin aynısı, aptal; internet aramasının diğer ucunda. Tanrım, henüz herkes [Google'ı](http://www.google.com/) nasıl kullanacağını bilmiyor mu? |
-
-| **S:** | Y'yi yapmak için X'i nasıl kullanabilirim? |
-
-| **C:** | Eğer Y yapmak istiyorsanız, uygun olmayabilecek bir yöntemin kullanılacağını varsaymadan bu soruyu sormalısınız. Bu formdaki sorular genellikle yalnızca X hakkında bilgisiz olmakla kalmayıp, aynı zamanda hangi Y problemini çözdüğü konusunda kafası karışık olan ve kendi özel durumunun ayrıntılarına fazla takılıp kalan bir kişiyi gösterir. Sorunlarını daha iyi tanımlayana kadar bu tür insanları görmezden gelmek genellikle en iyisidir. |
-
-| **S:** | Kabuk istemimi nasıl yapılandırabilirim? |
-
+| **S:** | Y'yi yapmak için X'i nasıl kullanabilirim?                   |
+| **C:** |Eğer Y yapmak istiyorsanız, uygun olmayabilecek bir yöntemin kullanılacağını varsaymadan bu soruyu sormalısınız. Bu formdaki sorular genellikle yalnızca X hakkında bilgisiz olmakla kalmayıp, aynı zamanda hangi Y problemini çözdüğü konusunda kafası karışık olan ve kendi özel durumunun ayrıntılarına fazla takılıp kalan bir kişiyi gösterir. Sorunlarını daha iyi tanımlayana kadar bu tür insanları görmezden gelmek genellikle en iyisidir. |
+| **S:** | Kabuk istemimi nasıl yapılandırabilirim?                         |
 | **C:** | Bu soruyu soracak kadar akıllıysanız, [RTFM](http://www.catb.org/~esr/faqs/smart-questions.html#rtfm) yapacak ve kendiniz keşfedecek kadar akıllısınız demektir. |
-
-| **S:** | Bass-o-matic dosya dönüştürücüyü kullanarak bir AcmeCorp belgesini TeX dosyasına dönüştürebilir miyim? |
-
-| **C:** | Deneyin ve görün. Bunu yapsaydın, (a) cevabı öğrenirdin ve (b) zamanımı boşa harcamayı bırakırdın. |
-
-| **S:** | {Programım, konfigürasyonum, SQL ifadem} çalışmıyor |
-
+| **S:** |  Bass-o-matic dosya dönüştürücüyü kullanarak bir AcmeCorp belgesini TeX dosyasına dönüştürebilir miyim? |
+| **C:** |  Deneyin ve görün. Bunu yapsaydın, (a) cevabı öğrenirdin ve (b) zamanımı boşa harcamayı bırakırdın. |
+| **S:** | {Programım, konfigürasyonum, SQL ifadem} çalışmıyor      |
 | **C:** | Bu bir soru değil ve asıl sorunuzu aklınızdan çıkarmak için Yirmi Soru oynamakla ilgilenmiyorum - yapacak daha iyi işlerim var. Böyle bir şey gördüğümde tepkim normalde aşağıdakilerden biri olur: Buna ekleyecek başka bir şeyin var mı? Ah, bu çok kötü, umarım düzeltirsin. Ve bunun benimle tam olarak ne alakası var? |
-
-| **S:** | Windows makinemde sorunlar yaşıyorum. Yardım edebilir misin? |
-
+| **S:** | Windows makinemde sorunlar yaşıyorum. Yardım edebilir misin?   |
 | **C:** | Evet. Microsoft'un çöplerini atın ve Linux veya BSD gibi açık kaynaklı bir işletim sistemi yükleyin. Not: Windows makineleriyle ilgili soruları, eğer resmi bir Windows yapısına sahip olan veya Windows makineleriyle etkileşime giren bir program hakkındaysa *sorabilirsiniz*. yani Samba). Sorunun programda değil Windows'ta olduğu yönündeki yanıta şaşırmayın, çünkü Windows genel olarak o kadar bozuk ki bu durum sıklıkla yaşanıyor. |
-
 | **S:** | Programım çalışmıyor. Sanırım sistem tesisi X bozuldu. |
-
-| **C:** | Yüzlerce veya binlerce kişinin yoğun olarak kullandığı sistem çağrıları ve kütüphanelerdeki bariz eksikliği ilk fark eden kişi olmanız mümkün olsa da, tamamen bilgisiz olmanız daha muhtemeldir. Olağanüstü iddialar olağanüstü deliller gerektirir; Bunun gibi bir iddiada bulunduğunuzda, bunu arıza durumuna ilişkin açık ve kapsamlı belgelerle desteklemeniz gerekir. |
-
-| **S:** | Linux veya X'i yüklerken sorun yaşıyorum. Yardım edebilir misiniz? |
-
+| **C:** |  Yüzlerce veya binlerce kişinin yoğun olarak kullandığı sistem çağrıları ve kütüphanelerdeki bariz eksikliği ilk fark eden kişi olmanız mümkün olsa da, tamamen bilgisiz olmanız daha muhtemeldir. Olağanüstü iddialar olağanüstü deliller gerektirir; Bunun gibi bir iddiada bulunduğunuzda, bunu arıza durumuna ilişkin açık ve kapsamlı belgelerle desteklemeniz gerekir. |
+| **S:** | Linux veya X'i yüklerken sorun yaşıyorum. Yardım edebilir misiniz?     |
 | **C:** | Hayır. Bu sorunu gidermek için makinenize uygulamalı erişime ihtiyacım var. Gidip yerel Linux kullanıcı grubunuzdan uygulamalı yardım isteyin. (Kullanıcı gruplarının listesini [burada](http://www.linux.org/groups/index.html) bulabilirsiniz.) Not: Bir forumda veya e-posta listesindeyseniz Linux kurulumuyla ilgili sorular uygun olabilir. belirli bir dağıtımla ilgili ve sorun *o* dağıtımda; veya yerel kullanıcı grupları forumlarında. Bu durumda, arızanın tam ayrıntılarını açıkladığınızdan emin olun. Ancak öncelikle "linux" ve *tüm* şüpheli donanım parçalarıyla dikkatli arama yapın. |
-
 | **S:** | Kökü nasıl kırabilirim/kanal operasyon ayrıcalıklarını nasıl çalabilirim/birinin e-postasını nasıl okuyabilirim? |
-
 | **C:** | Böyle şeyler yapmak istediğin için serserisin, bir bilgisayar üstadından sana yardım etmesini istediğin için de aptalsın. |
 
 ## İyi ve Kötü Sorular
