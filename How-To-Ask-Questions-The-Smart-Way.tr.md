@@ -48,7 +48,7 @@ Copyright © 2001,2006,2014 Eric S. Raymond, Rick Moen
 
 - [Translations](#translations)
 - [Disclaimer](#sorumluluk-reddi-beyanı)
-- [Introduction](#giris)
+- [Introduction](#Giris)
 - [Before You Ask](#sorunuzu-sormadan-once)
 - [When You Ask](#sordugunuzda)
   * [Choose your forum carefully](#forumunuzu-dikkatli-secin)
