@@ -65,7 +65,7 @@ Copyright © 2001,2006,2014 Eric S. Raymond, Rick Moen
   * [Yere kapanmak ödevinizi yapmanın yerini tutmaz](#Yere-kapanmak-ödevinizi-yapmanın-yerini-tutmaz)
   * [Tahminlerinizi değil sorunun belirtilerini açıklayın](#Tahminlerinizi-değil-sorunun-belirtilerini-açıklayın)
   * [Sorununuzun belirtilerini kronolojik sırayla tanımlayın](#Sorununuzun-belirtilerini-kronolojik-sırayla-tanımlayın)
-  * [Adımı değil hedefi açıklayın](# Adımı-değil-hedefi-açıklayın)
+  * [Adımı değil hedefi açıklayın](#Adımı-değil-hedefi-açıklayın)
   * [İnsanlardan özel e-postayla yanıt vermelerini istemeyin](#İnsanlardan-özel-e-postayla-yanıt-vermelerini-istemeyin)
   * [Sorunuz hakkında açık olun](#Sorunuz-hakkında-açık-olun)
   * [Kod sorulduğunda](#Kod-sorulduğunda)
