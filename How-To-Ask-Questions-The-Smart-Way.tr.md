@@ -44,49 +44,49 @@ Copyright © 2001,2006,2014 Eric S. Raymond, Rick Moen
 | Major addition of stuff about proper etiquette on Web forums. |             |      |
 
 ------
-## İçindekiler
+## Table of Contents
 
-- [Çeviriler](#translations)
-- [Sorumluluk reddi beyanı](#disclaimer)
-- [Giriş](#introduction)
-- [Sorunuzu Sormadan Önce](#before-you-ask)
-- [Sorduğunuzda](#when-you-ask)
-  * [Forumunuzu dikkatli seçin](#choose-your-forum-carefully)
+- [Translations](#translations)
+- [Disclaimer](#disclaimer)
+- [Introduction](#introduction)
+- [Before You Ask](#before-you-ask)
+- [When You Ask](#when-you-ask)
+  * [Choose your forum carefully](#choose-your-forum-carefully)
   * [Stack Overflow](#stack-overflow)
-  * [Web ve IRC forumları](#web-and-irc-forums)
-  * [İkinci adım olarak proje posta listelerini kullanın](#as-a-second-step--use-project-mailing-lists)
-  * [Anlamlı, spesifik konu başlıkları kullanın](#use-meaningful--specific-subject-headers)
-  * [Yanıtlamayı kolaylaştırın](#make-it-easy-to-reply)
-  * [Açık, gramer kurallarına uygun ve doğru yazılmış bir dille yazın](#write-in-clear--grammatical--correctly-spelled-language)
-  * [Soruları erişilebilir, standart formatlarda gönderin](#send-questions-in-accessible--standard-formats)
-  * [Sorununuz hakkında kesin ve bilgilendirici olun](#be-precise-and-informative-about-your-problem)
-  * [Hacim kesin değil](#volume-is-not-precision)
-  * [Bir hata bulduğunuzu iddia etmek için acele etmeyin](#don-t-rush-to-claim-that-you-have-found-a-bug)
-  * [Yere kapanmak ödevinizi yapmanın yerini tutmaz](#grovelling-is-not-a-substitute-for-doing-your-homework)
-  * [Tahminlerinizi değil, sorunun belirtilerini açıklayın](#describe-the-problem-s-symptoms--not-your-guesses)
-  * [Sorununuzun belirtilerini kronolojik sırayla tanımlayın](#describe-your-problem-s-symptoms-in-chronological-order)
-  * [Adımı değil hedefi açıklayın](#describe-the-goal--not-the-step)
-  * [İnsanlardan özel e-postayla yanıt vermelerini istemeyin](#don-t-ask-people-to-reply-by-private-e-mail)
-  * [Sorunuz hakkında açık olun](#be-explicit-about-your-question)
-  * [Kod sorulduğunda](#when-asking-about-code)
-  * [Ev ödevi soruları göndermeyin](#don-t-post-homework-questions)
-  * [Anlamsız sorguları budama](#prune-pointless-queries)
-  * [Sorunuz size ait olsa bile "Acil" olarak işaretlemeyin](#don-t-flag-your-question-as--urgent---even-if-it-is-for-you)
-  * [Nezaket asla zarar vermez ve bazen yardımcı olur](#courtesy-never-hurts--and-sometimes-helps)
-  * [Çözüme ilişkin kısa bir notla devam edin](#follow-up-with-a-brief-note-on-the-solution)
-- [Yanıtlar Nasıl Yorumlanır?](#how-to-interpret-answers)
-  * [RTFM ve STFW: Ciddi Bir Şekilde İşi Berbat Ettiğinizi Nasıl Anlarsınız?](#rtfm-and-stfw--how-to-tell-you-ve-seriously-screwed-up)
-  * [Eğer anlamıyorsan...](#if-you-don-t-understand)
-  * [Kabalıkla baş etmek](#dealing-with-rudeness)
-- [Kaybeden Gibi Tepki Vermemek Üzerine](#on-not-reacting-like-a-loser)
-- [Sorulmaması Gereken Sorular](#questions-not-to-ask)
-- [İyi ve Kötü Sorular](#good-and-bad-questions)
-- [Cevap Alamıyorsanız](#if-you-can-t-get-an-answer)
-- [Sorulara Yararlı Bir Şekilde Nasıl Cevap Verilir?](#how-to-answer-questions-in-a-helpful-way)
-- [Konuyla ilgili diğer kaynaklar](#related-resources)
-- [Teşekkür](#acknowledgements)
+  * [Web and IRC forums](#web-and-irc-forums)
+  * [As a second step, use project mailing lists](#as-a-second-step--use-project-mailing-lists)
+  * [Use meaningful, specific subject headers](#use-meaningful--specific-subject-headers)
+  * [Make it easy to reply](#make-it-easy-to-reply)
+  * [Write in clear, grammatical, correctly-spelled language](#write-in-clear--grammatical--correctly-spelled-language)
+  * [Send questions in accessible, standard formats](#send-questions-in-accessible--standard-formats)
+  * [Be precise and informative about your problem](#be-precise-and-informative-about-your-problem)
+  * [Volume is not precision](#volume-is-not-precision)
+  * [Don't rush to claim that you have found a bug](#don-t-rush-to-claim-that-you-have-found-a-bug)
+  * [Grovelling is not a substitute for doing your homework](#grovelling-is-not-a-substitute-for-doing-your-homework)
+  * [Describe the problem's symptoms, not your guesses](#describe-the-problem-s-symptoms--not-your-guesses)
+  * [Describe your problem's symptoms in chronological order](#describe-your-problem-s-symptoms-in-chronological-order)
+  * [Describe the goal, not the step](#describe-the-goal--not-the-step)
+  * [Don't ask people to reply by private e-mail](#don-t-ask-people-to-reply-by-private-e-mail)
+  * [Be explicit about your question](#be-explicit-about-your-question)
+  * [When asking about code](#when-asking-about-code)
+  * [Don't post homework questions](#don-t-post-homework-questions)
+  * [Prune pointless queries](#prune-pointless-queries)
+  * [Don't flag your question as “Urgent”, even if it is for you](#don-t-flag-your-question-as--urgent---even-if-it-is-for-you)
+  * [Courtesy never hurts, and sometimes helps](#courtesy-never-hurts--and-sometimes-helps)
+  * [Follow up with a brief note on the solution](#follow-up-with-a-brief-note-on-the-solution)
+- [How To Interpret Answers](#how-to-interpret-answers)
+  * [RTFM and STFW: How To Tell You've Seriously Screwed Up](#rtfm-and-stfw--how-to-tell-you-ve-seriously-screwed-up)
+  * [If you don't understand...](#if-you-don-t-understand)
+  * [Dealing with rudeness](#dealing-with-rudeness)
+- [On Not Reacting Like A Loser](#on-not-reacting-like-a-loser)
+- [Questions Not To Ask](#questions-not-to-ask)
+- [Good and Bad Questions](#good-and-bad-questions)
+- [If You Can't Get An Answer](#if-you-can-t-get-an-answer)
+- [How To Answer Questions in a Helpful Way](#how-to-answer-questions-in-a-helpful-way)
+- [Related Resources](#related-resources)
+- [Acknowledgements](#acknowledgements)
 
-## Çeviriler
+## Translations
 
 Translations: [Bahasa Indonesian](http://bulsara.host.sk/index.php?p=2005) [Belorussian](https://www.dussk.co/translation/ask-smart-questions/) [Brazilo-Portuguese](http://blogofscience.com/perguntas.html) [Chinese (Traditional)](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) [Croatian](http://www.bildelestore.dk/blog/kako-postavljati-pitanja-na-pametan-nacin) [Czech](http://scientificachievements.com/jak-se-ptat-chytry-zpusob/) [Dutch](http://docs.jaspervries.nl/smart-questions/) [Estonian](http://glory4cars.com/edu/kuidas-esitada-kusimusi-nutikas-viis/) [French](http://www.gnurou.org/documents/smart-questions-fr.html) [Georgian](http://maxo127.narod.ru/Geo/Articles/smart-questions_ge.html) [German](http://www.tty1.net/smart-questions_de.html) [Greek](http://www.dionyziz.com/howto-smart-questions-gr/) [Hindi](http://kntuniversity.org/how-to-ask-questions-the-smart-way/) [Hungarian](http://www.forallworld.com/milyen-kerdeseket-okosan/) [Irish Gaelic](http://www.autoteileprofi.ch/blog/2016/04/01/newly-sin-iarr-ar-kuestions-tkhe-smart-wai) [Indonesion](https://www.chameleonjohn.com/translations/smart-questions-Indonesian)[Japanese](http://www.ranvis.com/articles/smart-questions.ja.html) [Lithuanian](http://myscres.com/articles/kaip-uzduoti-klausimus-protinga-buda.html) [Polish](http://rtfm.killfile.pl/) [Portuguese](http://science-lakes.com/article43.html) [Romanian](http://wiki.lug.ro/mediawiki/index.php/Cum_se_pun_%C3%AEntreb%C4%83ri_%C3%AEn_mod_inteligent) [Russian](http://maddog.sitengine.ru/smart-question-ru.html) [Serbian](http://www.autoersatzteile.de/blog/how-to-ask-questions-the-smart-way-in-serbian) [Spanish](http://www.sindominio.net/ayuda/preguntas-inteligentes.html) [Uzbek](http://www.bestcarzin.com/blog/smart-questions-uzb/) If you want to copy, mirror, translate, or excerpt this document, please see my [copying policy](http://www.catb.org/~esr/copying.html).
 
@@ -290,7 +290,6 @@ Sorunuzu yapay olarak okunmasını zorlaştırırsanız, sorunun, öyle olmayan 
 Netscape Messenger, MS Outlook veya benzerleri gibi grafik kullanıcı arayüzüne sahip bir posta istemcisi kullanıyorsanız, varsayılan ayarlarıyla kullanıldığında bu kuralları ihlal edebileceğine dikkat edin. Bu tür istemcilerin çoğunda menü tabanlı bir "Kaynağı Görüntüle" komutu bulunur. Bunu, gönderilmiş posta klasörünüzdeki bir şey üzerinde kullanın ve düz metinlerin gereksiz eklemeler olmadan gönderilmesini doğrulayın.
 
 ### Sorununuz hakkında kesin ve bilgilendirici olun
-
 - Sorununuzun veya hatanızın belirtilerini dikkatli ve net bir şekilde tanımlayın.
 - Oluştuğu ortamı tanımlayın (makine, işletim sistemi, uygulama vb.). Satıcınızın dağıtım ve sürüm düzeyini sağlayın (örneğin: “Fedora Core 7”, “Slackware 9.1” vb.).
 - Soruyu sormadan önce sorunu anlamak için yaptığınız araştırmayı açıklayın.
@@ -458,7 +457,7 @@ Web forumlarında ayrıca forum arşivlerinde arama yapmanız da istenebilir. As
 
 Bundan alınmamalısın; Bilgisayar üstadlarının standartlarına göre, yanıtladığınız kişi sizi görmezden gelmeyerek size kaba bir saygı gösteriyor. Bunun yerine bu büyükanne nezaketine minnettar olmalısınız.
 
-### Eğer anlamıyorsan...
+### If you don't understand...
 
 Cevabı anlamadıysanız, açıklama talebinizi hemen geri çevirmeyin. Cevabı anlamak için orijinal sorunuzu cevaplamak için kullandığınız araçları (kılavuzlar, SSS'ler, Web, yetenekli arkadaşlar) kullanın. Daha sonra eğer hala açıklama istemeniz gerekiyorsa öğrendiklerinizi sergileyin.
 
