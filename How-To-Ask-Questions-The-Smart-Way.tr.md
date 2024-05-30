@@ -46,47 +46,47 @@ Copyright © 2001,2006,2014 Eric S. Raymond, Rick Moen
 ------
 ## Table of Contents
 
-- [Translations](#translations)
-- [Disclaimer](#sorumluluk-reddi-beyanı)
-- [Introduction](#Giriş)
-- [Before You Ask](#sorunuzu-sormadan-once)
-- [When You Ask](#sordugunuzda)
-  * [Choose your forum carefully](#forumunuzu-dikkatli-secin)
-  * [Stack Overflow](#stack-overflow)
-  * [Web and IRC forums](#web-and-irc-forumlari)
-  * [As a second step, use project mailing lists](#ikinci-adim-olarak-proje-posta-listelerini-kullanin)
-  * [Use meaningful, specific subject headers](#anlamlı-spesifik-konu-basliklari-kullanin)
-  * [Make it easy to reply](#yanitlamayi-kolaylastirin)
-  * [Write in clear, grammatical, correctly-spelled language](#acik-gramer-kurallarina-uygun-ve-dogru-yazilmis-bir-dille-yazin)
-  * [Send questions in accessible, standard formats](#send-questions-in-accessible--standard-formats)
-  * [Be precise and informative about your problem](#be-precise-and-informative-about-your-problem)
-  * [Volume is not precision](#volume-is-not-precision)
-  * [Don't rush to claim that you have found a bug](#don-t-rush-to-claim-that-you-have-found-a-bug)
-  * [Grovelling is not a substitute for doing your homework](#grovelling-is-not-a-substitute-for-doing-your-homework)
-  * [Describe the problem's symptoms, not your guesses](#describe-the-problem-s-symptoms--not-your-guesses)
-  * [Describe your problem's symptoms in chronological order](#describe-your-problem-s-symptoms-in-chronological-order)
-  * [Describe the goal, not the step](#describe-the-goal--not-the-step)
-  * [Don't ask people to reply by private e-mail](#don-t-ask-people-to-reply-by-private-e-mail)
-  * [Be explicit about your question](#be-explicit-about-your-question)
-  * [When asking about code](#when-asking-about-code)
-  * [Don't post homework questions](#don-t-post-homework-questions)
-  * [Prune pointless queries](#prune-pointless-queries)
-  * [Don't flag your question as “Urgent”, even if it is for you](#don-t-flag-your-question-as--urgent---even-if-it-is-for-you)
-  * [Courtesy never hurts, and sometimes helps](#courtesy-never-hurts--and-sometimes-helps)
-  * [Follow up with a brief note on the solution](#follow-up-with-a-brief-note-on-the-solution)
-- [How To Interpret Answers](#how-to-interpret-answers)
-  * [RTFM and STFW: How To Tell You've Seriously Screwed Up](#rtfm-and-stfw--how-to-tell-you-ve-seriously-screwed-up)
-  * [If you don't understand...](#if-you-don-t-understand)
-  * [Dealing with rudeness](#dealing-with-rudeness)
-- [On Not Reacting Like A Loser](#on-not-reacting-like-a-loser)
-- [Questions Not To Ask](#questions-not-to-ask)
-- [Good and Bad Questions](#good-and-bad-questions)
-- [If You Can't Get An Answer](#if-you-can-t-get-an-answer)
-- [How To Answer Questions in a Helpful Way](#how-to-answer-questions-in-a-helpful-way)
-- [Related Resources](#related-resources)
-- [Acknowledgements](#acknowledgements)
+- [Çeviriler](#translations)
+- [Sorumluluk reddi beyanı](#sorumluluk-reddi-beyanı)
+- [Giriş](#Giriş)
+- [Sorunuzu Sormadan Önce](#Sorunuzu-Sormadan-Önce)
+- [Sorduğunuzda](#Sorduğunuzda)
+  * [Forumunuzu dikkatli seçin](#Forumunuzu-dikkatli-seçin)
+  * [Stack Overflow](#Stack-Overflow)
+  * [Web ve IRC forumları](#Web-ve-IRC-forumları)
+  * [İkinci adım olarak proje posta listelerini kullanın](#İkinci-adım-olarak-proje-posta-listelerini-kullanın)
+  * [Anlamlı spesifik konu başlıkları kullanın](#Anlamlı-spesifik-konu-başlıkları-kullanın)
+  * [Yanıtlamayı kolaylaştırın](#Yanıtlamayı-kolaylaştırın)
+  * [Açık gramer kurallarına uygun ve doğru yazılmış bir dille yazın](#Açık-gramer-kurallarına-uygun-ve-doğru-yazılmış-bir-dille-yazın)
+  * [Soruları erişilebilir standart formatlarda gönderin](#Soruları-erişilebilir-standart-formatlarda-gönderin)
+  * [Sorununuz hakkında kesin ve bilgilendirici olun](#Sorununuz-hakkında-kesin-ve-bilgilendirici-olun)
+  * [Hacim kesin değil](#Hacim-kesin-değil)
+  * [Bir hata bulduğunuzu iddia etmek için acele etmeyin](#Bir-hata-bulduğunuzu-iddia-etmek-için-acele-etmeyin)
+  * [Yere kapanmak ödevinizi yapmanın yerini tutmaz](#Yere-kapanmak-ödevinizi-yapmanın-yerini-tutmaz)
+  * [Tahminlerinizi değil sorunun belirtilerini açıklayın](#Tahminlerinizi-değil-sorunun-belirtilerini-açıklayın)
+  * [Sorununuzun belirtilerini kronolojik sırayla tanımlayın](#Sorununuzun-belirtilerini-kronolojik-sırayla-tanımlayın)
+  * [Adımı değil hedefi açıklayın](# Adımı-değil-hedefi-açıklayın)
+  * [İnsanlardan özel e-postayla yanıt vermelerini istemeyin](#İnsanlardan-özel-e-postayla-yanıt-vermelerini-istemeyin)
+  * [Sorunuz hakkında açık olun](#Sorunuz-hakkında-açık-olun)
+  * [Kod sorulduğunda](#Kod-sorulduğunda)
+  * [Ev ödevi soruları göndermeyin](#Ev-ödevi-soruları-göndermeyin)
+  * [Anlamsız sorguları budama](#Anlamsız-sorguları-budama)
+  * [Sorunuz size ait olsa bile "Acil" olarak işaretlemeyin](#Sorunuz-size-ait-olsa-bile---Acil---olarak-işaretlemeyin)
+  * [Nezaket asla zarar vermez ve bazen yardımcı olur](#Nezaket-asla-zarar-vermez-ve-bazen-yardımcı-olur)
+  * [Çözüme ilişkin kısa bir notla devam edin](#Çözüme-ilişkin-kısa-bir-notla-devam-edin)
+- [Yanıtlar Nasıl Yorumlanır?](#Yanıtlar-Nasıl-Yorumlanır)
+  * [RTFM ve STFW: Ciddi Bir Şekilde İşi Berbat Ettiğinizi Nasıl Anlarsınız?](#RTFM-ve-STFW-Ciddi-Bir-Şekilde-İşi-Berbat-Ettiğinizi-Nasıl-Anlarsınız)
+  * [Eğer anlamıyorsanız ...](#Eğer-anlamıyorsanız)
+  * [Kabalıkla baş etmek](#Kabalıkla-baş-etmek)
+- [Kaybeden Gibi Tepki Vermemek Üzerine](#Kaybeden-Gibi-Tepki-Vermemek-Üzerine)
+- [Sorulmaması Gereken Sorular](#Sorulmaması-Gereken-Sorular)
+- [İyi ve Kötü Sorular](#İyi-ve-Kötü-Sorular)
+- [Cevap Alamıyorsanız](#Cevap-Alamıyorsanız)
+- [Sorulara Yararlı Bir Şekilde Nasıl Cevap Verilir?](#Sorulara-Yararlı-Bir-Şekilde-Nasıl-Cevap-Verilir)
+- [Konuyla ilgili diğer kaynaklar](#Konuyla-ilgili-diğer-kaynaklar)
+- [Teşekkür](#Teşekkür)
 
-## Translations
+## Çeviriler
 
 Translations: [Bahasa Indonesian](http://bulsara.host.sk/index.php?p=2005) [Belorussian](https://www.dussk.co/translation/ask-smart-questions/) [Brazilo-Portuguese](http://blogofscience.com/perguntas.html) [Chinese (Traditional)](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) [Croatian](http://www.bildelestore.dk/blog/kako-postavljati-pitanja-na-pametan-nacin) [Czech](http://scientificachievements.com/jak-se-ptat-chytry-zpusob/) [Dutch](http://docs.jaspervries.nl/smart-questions/) [Estonian](http://glory4cars.com/edu/kuidas-esitada-kusimusi-nutikas-viis/) [French](http://www.gnurou.org/documents/smart-questions-fr.html) [Georgian](http://maxo127.narod.ru/Geo/Articles/smart-questions_ge.html) [German](http://www.tty1.net/smart-questions_de.html) [Greek](http://www.dionyziz.com/howto-smart-questions-gr/) [Hindi](http://kntuniversity.org/how-to-ask-questions-the-smart-way/) [Hungarian](http://www.forallworld.com/milyen-kerdeseket-okosan/) [Irish Gaelic](http://www.autoteileprofi.ch/blog/2016/04/01/newly-sin-iarr-ar-kuestions-tkhe-smart-wai) [Indonesion](https://www.chameleonjohn.com/translations/smart-questions-Indonesian)[Japanese](http://www.ranvis.com/articles/smart-questions.ja.html) [Lithuanian](http://myscres.com/articles/kaip-uzduoti-klausimus-protinga-buda.html) [Polish](http://rtfm.killfile.pl/) [Portuguese](http://science-lakes.com/article43.html) [Romanian](http://wiki.lug.ro/mediawiki/index.php/Cum_se_pun_%C3%AEntreb%C4%83ri_%C3%AEn_mod_inteligent) [Russian](http://maddog.sitengine.ru/smart-question-ru.html) [Serbian](http://www.autoersatzteile.de/blog/how-to-ask-questions-the-smart-way-in-serbian) [Spanish](http://www.sindominio.net/ayuda/preguntas-inteligentes.html) [Uzbek](http://www.bestcarzin.com/blog/smart-questions-uzb/) If you want to copy, mirror, translate, or excerpt this document, please see my [copying policy](http://www.catb.org/~esr/copying.html).
 
@@ -220,7 +220,7 @@ Ancak, sorunuzun önemsiz olmadığından *eminseniz* ve "kullanıcı" listesind
 
 Bir projenin e-posta listesi adresini bulamıyor ancak yalnızca projenin sorumlusunun adresini görüyorsanız, devam edin ve sorumluya yazın. Ancak bu durumda bile e-posta listesinin mevcut olmadığını varsaymayın. E-postanızda uygun e-posta listesini denediğinizi ve bulamadığınızı belirtin. Ayrıca mesajınızın başkalarına iletilmesine itirazınız olmadığını da belirtin. (Birçok kişi, içinde gizli hiçbir şey olmasa bile, özel e-postanın özel kalması gerektiğine inanır. Mesajınızın iletilmesine izin vererek, muhabirinize e-postanızı nasıl yöneteceği konusunda bir seçenek vermiş olursunuz.)
 
-### Anlamlı, spesifik konu başlıkları kullanın
+### Anlamlı spesifik konu başlıkları kullanın
 
 Posta listelerinde, haber gruplarında veya Web forumlarında konu başlığı, yaklaşık 50 veya daha az karakterle nitelikli uzmanların dikkatini çekmek için altın bir fırsattır. "Lütfen bana yardım edin" gibi gevezeliklerle boşa harcamayın ("LÜTFEN YARDIM EDİN!!!!" şöyle dursun; bu tür konuları içeren mesajlar refleks olarak göz ardı edilir). Acınızın derinliğiyle bizi etkilemeye çalışmayın; bunun yerine sorunun çok kısa bir açıklaması için alanı kullanın.
 
@@ -255,7 +255,7 @@ Sorgunuzu "Lütfen yanıtınızı şu adrese gönderin..." şeklinde bitirmek, y
 
 Web forumlarında, bilginin hassas olabileceğine inanmıyorsanız (ve birileri bilinmeyen bir nedenden dolayı bunu tüm forumun bilmesine değil size bildirecekse) e-postayla yanıt istemek tamamen kabalıktır. Birisi konuya yanıt verdiğinde bir e-posta kopyası istiyorsanız, Web forumunun bunu göndermesini isteyin; bu özellik hemen hemen her yerde "bu konuyu izle", "cevaplarda e-posta gönder" vb. seçenekler altında desteklenir.
 
-### Açık, gramer kurallarına uygun ve doğru yazılmış bir dille yazın
+### Açık gramer kurallarına uygun ve doğru yazılmış bir dille yazın
 
 Deneyimlerimiz sonucunda dikkatsiz ve özensiz yazarların aynı zamanda düşünme ve kodlama konusunda da dikkatsiz ve özensiz olduklarını (zaten çoğu zaman üzerine bahse girecek kadar) bulduk. Dikkatsiz ve özensiz düşünenlerin sorularını yanıtlamak ödüllendirici değildir; Zamanımızı başka bir yerde geçirmeyi tercih ederiz.
 
@@ -274,7 +274,7 @@ Ana dilinizi kullanmayan bir forumda soru soruyorsanız, yazım ve dilbilgisi ha
 - Teknik terimlere aşinayım ancak bazı argo ifadeler ve deyimler bana zor geliyor.
 - Sorumu $LANGUAGE ve İngilizce dillerinde yayınladım. Yalnızca birini veya diğerini kullanırsanız yanıtları tercüme etmekten memnuniyet duyarım.
 
-### Soruları erişilebilir, standart formatlarda gönderin
+### Soruları erişilebilir standart formatlarda gönderin
 
 Sorunuzu yapay olarak okunmasını zorlaştırırsanız, sorunun, öyle olmayan bir soruyla geçiştirilmesi daha olasıdır. Bu yüzden:
 
@@ -290,6 +290,7 @@ Sorunuzu yapay olarak okunmasını zorlaştırırsanız, sorunun, öyle olmayan 
 Netscape Messenger, MS Outlook veya benzerleri gibi grafik kullanıcı arayüzüne sahip bir posta istemcisi kullanıyorsanız, varsayılan ayarlarıyla kullanıldığında bu kuralları ihlal edebileceğine dikkat edin. Bu tür istemcilerin çoğunda menü tabanlı bir "Kaynağı Görüntüle" komutu bulunur. Bunu, gönderilmiş posta klasörünüzdeki bir şey üzerinde kullanın ve düz metinlerin gereksiz eklemeler olmadan gönderilmesini doğrulayın.
 
 ### Sorununuz hakkında kesin ve bilgilendirici olun
+
 - Sorununuzun veya hatanızın belirtilerini dikkatli ve net bir şekilde tanımlayın.
 - Oluştuğu ortamı tanımlayın (makine, işletim sistemi, uygulama vb.). Satıcınızın dağıtım ve sürüm düzeyini sağlayın (örneğin: “Fedora Core 7”, “Slackware 9.1” vb.).
 - Soruyu sormadan önce sorunu anlamak için yaptığınız araştırmayı açıklayın.
@@ -327,7 +328,7 @@ Kaba primat politikalarıyla ne kendi zamanınızı, ne de bizim zamanımızı b
 
 Bazen Web forumlarında yeni başlayanlar için sorular için ayrı yerler bulunur. Yeni başlayanlara yönelik bir sorunuz olduğunu düşünüyorsanız oraya gidin. Ama orada da boyun eğmeyin.
 
-### Tahminlerinizi değil, sorunun belirtilerini açıklayın
+### Tahminlerinizi değil sorunun belirtilerini açıklayın
 
 Bilgisayar üstadlarına sorununuza neyin neden olduğunu düşündüğünüzü söylemenin faydası yoktur. (Teşhis teorileriniz bu kadar popüler olsaydı, yardım için başkalarına danışır mıydınız?) Bu nedenle, yorumlarınız ve teorileriniz yerine, onlara neyin yanlış gittiğinin ham belirtilerini anlattığınızdan emin olun. Yorumunu, teşhisini onlar yapsın. Tahmininizi belirtmenin önemli olduğunu düşünüyorsanız, bunu açıkça belirtin ve bu cevabın neden işinize yaramadığını açıklayın.
 
@@ -457,7 +458,7 @@ Web forumlarında ayrıca forum arşivlerinde arama yapmanız da istenebilir. As
 
 Bundan alınmamalısın; Bilgisayar üstadlarının standartlarına göre, yanıtladığınız kişi sizi görmezden gelmeyerek size kaba bir saygı gösteriyor. Bunun yerine bu büyükanne nezaketine minnettar olmalısınız.
 
-### If you don't understand...
+### Eğer anlamıyorsanız ...
 
 Cevabı anlamadıysanız, açıklama talebinizi hemen geri çevirmeyin. Cevabı anlamak için orijinal sorunuzu cevaplamak için kullandığınız araçları (kılavuzlar, SSS'ler, Web, yetenekli arkadaşlar) kullanın. Daha sonra eğer hala açıklama istemeniz gerekiyorsa öğrendiklerinizi sergileyin.
 
