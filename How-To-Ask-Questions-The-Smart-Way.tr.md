@@ -71,7 +71,7 @@ Copyright © 2001,2006,2014 Eric S. Raymond, Rick Moen
   * [Kod sorulduğunda](#Kod-sorulduğunda)
   * [Ev ödevi soruları göndermeyin](#Ev-ödevi-soruları-göndermeyin)
   * [Anlamsız sorguları budama](#Anlamsız-sorguları-budama)
-  * [Sorunuz size ait olsa bile "Acil" olarak işaretlemeyin](#Sorunuz-size-ait-olsa-bile---Acil---olarak-işaretlemeyin)
+  * [Sorunuz size ait olsa bile "Acil" olarak işaretlemeyin](#Sorunuz-size-ait-olsa-bile-Acil-olarak-işaretlemeyin)
   * [Nezaket asla zarar vermez ve bazen yardımcı olur](#Nezaket-asla-zarar-vermez-ve-bazen-yardımcı-olur)
   * [Çözüme ilişkin kısa bir notla devam edin](#Çözüme-ilişkin-kısa-bir-notla-devam-edin)
 - [Yanıtlar Nasıl Yorumlanır?](#Yanıtlar-Nasıl-Yorumlanır)
@@ -406,7 +406,7 @@ Yardım talebinizi "Bana yardım edebilecek kimse var mı?" gibi anlamsal olarak
 
 Genel olarak, [evet veya hayır yanıtı](http://homepage.ntlworld.com./jonathan.deboynepollard/FGA/questions-with-) istemediğiniz sürece evet veya hayır şeklinde sorular sormaktan kaçınmak iyi bir şeydir. evet-veya-hayır-cevapları.html).
 
-### Sorunuz size ait olsa bile "Acil" olarak işaretlemeyin
+### Sorunuz size ait olsa bile Acil olarak işaretlemeyin
 
 Bu sizin sorununuz, bizim değil. Aciliyet iddiasında bulunmak büyük olasılıkla ters etki yaratacaktır: çoğu bilgisayar üstadı, anında ve özel ilgi çekmeye yönelik kaba ve bencil girişimler nedeniyle bu tür mesajları basitçe siler. Ayrıca, 'Acil' kelimesi (ve konu satırında dikkat çekmeye yönelik diğer benzer girişimler) sıklıkla spam filtrelerini tetikler; hedeflediğiniz alıcılar bunu hiç göremeyebilir!
 
@@ -458,7 +458,7 @@ Web forumlarında ayrıca forum arşivlerinde arama yapmanız da istenebilir. As
 
 Bundan alınmamalısın; Bilgisayar üstadlarının standartlarına göre, yanıtladığınız kişi sizi görmezden gelmeyerek size kaba bir saygı gösteriyor. Bunun yerine bu büyükanne nezaketine minnettar olmalısınız.
 
-### Eğer anlamıyorsanız ...
+### Eğer anlamıyorsanız
 
 Cevabı anlamadıysanız, açıklama talebinizi hemen geri çevirmeyin. Cevabı anlamak için orijinal sorunuzu cevaplamak için kullandığınız araçları (kılavuzlar, SSS'ler, Web, yetenekli arkadaşlar) kullanın. Daha sonra eğer hala açıklama istemeniz gerekiyorsa öğrendiklerinizi sergileyin.
 
