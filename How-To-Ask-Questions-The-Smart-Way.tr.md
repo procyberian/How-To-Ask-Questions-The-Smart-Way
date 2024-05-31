@@ -180,17 +180,17 @@ Anlaşılır bir şekilde, yetenekli bilgisayar üstadları ve popüler yazılı
 
 Arayın, *sonra* Stack Exchange'de sorun
 
-Son yıllarda Stack Exchange site topluluğu, teknik ve diğer soruların yanıtlanması için önemli bir kaynak olarak ortaya çıktı ve hatta birçok açık kaynaklı proje için tercih edilen forum haline geldi.
+Son yıllarda Stack Exchange topluluğu, teknik ve diğer soruların yanıtlanması için önemli bir kaynak olarak ortaya çıktı ve hatta birçok açık kaynaklı proje için tercih edilen forum haline geldi.
 
 Stack Exchange'e bakmadan önce bir Google aramasıyla başlayın; Google bunu gerçek zamanlı olarak dizine ekler. Birisinin zaten benzer bir soru sormuş olma ihtimali çok yüksektir ve Stack Exchange siteleri genellikle arama sonuçlarının en üst sıralarında yer alır. Google'da herhangi bir şey bulamadıysanız sorunuzla en alakalı sitede tekrar arama yapın (aşağıya bakın). Etiketlerle arama yapmak sonuçları daraltmanıza yardımcı olabilir.
 
-Hâlâ bir şey bulamadıysanız sorunuzu, konuyla en alakalı olan *one* siteye gönderin. Özellikle kod için biçimlendirme araçlarını kullanın ve sorunuzun özüyle ilgili etiketleri ekleyin (özellikle sorun yaşadığınız programlama dilinin, işletim sisteminin veya kitaplığın adı). Bir yorumcu sizden daha fazla bilgi isterse ana gönderinizi düzenleyerek bu bilgiyi ekleyin. Herhangi bir yanıt faydalıysa olumlu oy vermek için yukarı oka tıklayın; Bir cevap sorununuza çözüm sağlıyorsa, cevabı doğru olarak kabul etmek için oylama oklarının altındaki onay işaretine tıklayın.
+Hâlâ bir şey bulamadıysanız sorunuzu, konuyla en alakalı olan *bir* siteye gönderin. Özellikle kod için biçimlendirme araçlarını kullanın ve sorunuzun özüyle ilgili etiketleri ekleyin (özellikle sorun yaşadığınız programlama dilinin, işletim sisteminin veya kitaplığın adı). Bir yorumcu sizden daha fazla bilgi isterse ana gönderinizi düzenleyerek bu bilgiyi ekleyin. Herhangi bir yanıt faydalıysa olumlu oy vermek için yukarı oka tıklayın; Bir cevap sorununuza çözüm sağlıyorsa, cevabı doğru olarak kabul etmek için oylama oklarının altındaki onay işaretine tıklayın.
 
 Stack Exchange [100'den fazla siteye](http://stackexchange.com/sites) ulaştı ancak en olası adaylar şunlardır:
 
-- Süper Kullanıcı genel amaçlı bilgi işlemle ilgili sorular içindir. Sorunuz yalnızca ağ bağlantısı üzerinden konuştuğunuz kod veya programlarla ilgili değilse muhtemelen buraya gelecek.
-- Yığın Taşması programlama ile ilgili sorular içindir.
-- Sunucu Arızası, sunucu ve ağ yönetimi ile ilgili sorular içindir.
+- Super User genel amaçlı bilgi işlemle ilgili sorular içindir. Sorunuz yalnızca ağ bağlantısı üzerinden konuştuğunuz kod veya programlarla ilgili değilse muhtemelen buraya gelecek.
+- Stack Overflow programlama ile ilgili sorular içindir.
+- Server Fault, sunucu ve ağ yönetimi ile ilgili sorular içindir.
 
 Android, Ubuntu, TeX/LaTeX ve SharePoint dahil olmak üzere birçok projenin kendine özel siteleri vardır. Güncel bir liste için Stack Exchange sitesini kontrol edin.
 
