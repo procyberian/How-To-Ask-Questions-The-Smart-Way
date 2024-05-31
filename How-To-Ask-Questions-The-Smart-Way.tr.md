@@ -258,13 +258,13 @@ Web forumlarında, bilginin hassas olabileceğine inanmıyorsanız (ve birileri 
 
 ### Açık gramer kurallarına uygun ve doğru yazılmış bir dille yazın
 
-Deneyimlerimiz sonucunda dikkatsiz ve özensiz yazarların aynı zamanda düşünme ve kodlama konusunda da dikkatsiz ve özensiz olduklarını (zaten çoğu zaman üzerine bahse girecek kadar) bulduk. Dikkatsiz ve özensiz düşünenlerin sorularını yanıtlamak ödüllendirici değildir; Zamanımızı başka bir yerde geçirmeyi tercih ederiz.
+Deneyimlerimiz sonucunda dikkatsiz ve özensiz yazarların aynı zamanda düşünme ve kodlama konusunda da dikkatsiz ve özensiz olduklarını (zaten çoğu zaman üzerine bahse girecek kadar) bulduk. Dikkatsiz ve özensiz düşünenlerin sorularını yanıtlamak ödüllendirici değildir; zamanımızı başka bir yerde geçirmeyi tercih ederiz.
 
-Bu nedenle sorunuzu açık ve güzel bir şekilde ifade etmeniz önemlidir. Eğer siz bunu yapmaktan rahatsız olamazsanız, biz de dikkat etmekten rahatsız olamayız. Dilinizi geliştirmek için ekstra çaba harcayın. Katı veya resmi olması gerekmez; aslında hacker kültürü, resmi olmayan, argo ve esprili bir dilin titizlikle kullanılmasına değer verir. Ancak kesin *olması* gerekiyor; Düşündüğünüze ve dikkat ettiğinize dair bazı belirtiler olmalı.
-
-Doğru şekilde yazın, noktalayın ve büyük harf kullanın. "Onun"u "o" ile, "gevşek"i "kaybetmek"le veya "ayrık"ı "gizli" ile karıştırmayın. TAMAMI BÜYÜK HARFLERLE YAZMAYIN; bu bağırmak olarak okunur ve kaba kabul edilir. (Tamamen küçükler, okunması zor olduğundan biraz daha az sinir bozucudur. Alan Cox bundan kurtulabilir ama siz yapamazsınız.)
+Bu nedenle sorunuzu açık ve güzel bir şekilde ifade etmeniz önemlidir. Eğer siz bunu yapmaktan rahatsız olamazsanız, biz de dikkat etmekten rahatsız olamayız. Dilinizi geliştirmek için ekstra çaba harcayın. Katı veya resmi olması gerekmez; aslında hacker kültürü, resmi olmayan, argo ve esprili bir dilin titizlikle kullanılmasına değer verir. Ancak kesin *olması* gerekiyor; Düşündüğünüze ve dikkat ettiğinize dair bazı belirtiler olmalıdır.
 
 Doğru şekilde yazın, noktalayın ve büyük harf kullanın. "Onun"u "o" ile, "gevşek"i "kaybetmek"le veya "ayrık"ı "gizli" ile karıştırmayın. TAMAMI BÜYÜK HARFLERLE YAZMAYIN; bu bağırmak olarak okunur ve kaba kabul edilir. (Tamamen küçükler, okunması zor olduğundan biraz daha az sinir bozucudur. Alan Cox bundan kurtulabilir ama siz yapamazsınız.)
+
+Daha genel olarak, eğer yarı okuryazar bir aptal gibi yazarsanız büyük olasılıkla göz ardı edilirsiniz. Bu nedenle anlık mesajlaşma kısayollarını kullanmayın. "Sen"i "u" olarak hecelemek, iki tuş vuruşunu tam olarak kaydedebilen yarı okuryazar bir aptal gibi görünmeni sağlar. Daha da kötüsü: bir l33t senaryosu kiddie hax0r gibi yazmak, mutlak bir ölüm öpücüğüdür ve karşılığında taşlı bir sessizlikten (veya en iyi ihtimalle, yığınla küçümseme ve alaycılıktan) başka bir şey almayacağınızı garanti eder.
 
 Ana dilinizi kullanmayan bir forumda soru soruyorsanız, yazım ve dilbilgisi hataları için sınırlı miktarda gevşeklik elde edersiniz; ancak tembellik nedeniyle fazladan gevşeklik olmaz (ve evet, genellikle bu farkı görebiliriz). Ayrıca yanıtladığınız kişinin dilinin ne olduğunu bilmiyorsanız İngilizce yazın. Meşgul bilgisayar üstadları anlamadıkları dillerdeki soruları hemen sormaya eğilimlidirler ve İngilizce, İnternet'in çalışma dilidir. İngilizce yazarak sorunuzun okunmadan atılma olasılığını en aza indirirsiniz.
 
