@@ -92,11 +92,11 @@ Translations: [Bahasa Indonesian](http://bulsara.host.sk/index.php?p=2005) [Belo
 
 ## Sorumluluk reddi beyanı
 
-Pek çok proje web sitesi, nasıl yardım alınabileceğine ilişkin bölümlerinde bu belgeye bağlantı verir. Sorun değil, amaçladığımız kullanım budur - ancak proje sayfanız için böyle bir bağlantı oluşturan bir web yöneticisiyseniz, lütfen bağlantının yanında *projeniz için bir yardım masası olmadığımızı* belirten dikkat çekici bir uyarı belirtin!
+Pek çok proje web sitesi, nasıl yardım alınabileceğine ilişkin bölümlerinde bu belgeye bağlantı verir. Sorun değil, amaçladığımız kullanım budur - ancak proje sayfanız için böyle bir bağlantı oluşturan bir web yöneticisiyseniz, lütfen bağlantının yanında *projeniz için bir yardım masası olmadığımızı* belirten dikkat çekici bir uyarı belirtiniz!
 
 Böyle bir bildirim olmadan, bu belgeyi yayınlamanın dünyanın tüm teknik sorunlarını çözmeyi bizim işimiz haline getirdiğini düşünen aptallar tarafından defalarca rahatsız edileceğimizi zor yoldan öğrendik.
 
-Bu belgeyi yardıma ihtiyacınız olduğu için okuyorsanız ve yardımı doğrudan bu belgenin yazarlarından alabileceğiniz izlenimine kapılıyorsanız, *siz* bahsettiğimiz aptallardan birisiniz. *Bize* soru sormayın. Seni görmezden geleceğiz. Karşılaştığınız yazılım veya donanım hakkında gerçekten bilgi sahibi olan kişilerden, ancak %99,9 oranında biz olmayacağız, nasıl yardım alabileceğinizi size göstermek için buradayız. Yazarlardan birinin uğraştığınız konu hakkında uzman olduğunu *kesin* olarak bilmiyorsanız, bizi rahat bırakın ve herkes daha mutlu olacaktır.
+Bu belgeyi yardıma ihtiyacınız olduğu için okuyorsanız ve yardımı doğrudan bu belgenin yazarlarından alabileceğiniz izlenimine kapılıyorsanız, *siz* bahsettiğimiz aptallardan birisiniz. *Bize* soru sormayın. Seni görmezden geleceğiz. Karşılaştığınız yazılım veya donanım hakkında gerçekten bilgi sahibi olan kişilerden, ancak %99,9 oranında biz olmayacağız, nasıl yardım alabileceğinizi size göstermek için buradayız. Yazarlardan birinin uğraştığınız konu hakkında uzman olduğunu *kesin* olarak bilmiyorsanız, bizi rahat bırakın ve böylece herkes daha mutlu olacaktır.
 
 ## Giriş
 
@@ -108,17 +108,17 @@ Anlaşılması gereken ilk şey, bilgisayar üstadlarının aslında zor problem
 
 Buna rağmen, bilgisayar üstadları basit soruları düşmanlık veya kibir gibi görünen bir tavırla karşılama konusunda bir üne sahiptir. Bazen yeni başlayanlara ve cahillere refleks olarak kaba davranıyormuşuz gibi görünüyor. Ama bu aslında doğru değil.
 
-Bizim, hiç çekinmeden, düşmanca davrandığımız şey, soru sormadan önce düşünmeye ya da kendi araştırmalarını yapmaya isteksiz görünen insanlardır. Bunun gibi insanlar zamanlarını tüketirler; geri vermeden alırlar ve bizim daha ilginç başka bir soruya ve cevaba daha layık başka bir kişiye harcayabileceğimiz zamanı boşa harcarlar. Bu tür insanlara "ezikler" diyoruz (ve tarihsel nedenlerden dolayı bazen bunu "bilgisayar özürlüsü" diye yazıyoruz).
+Bizim, hiç çekinmeden, düşmanca davrandığımız şey, soru sormadan önce düşünmeye ya da kendi araştırmalarını yapmaya isteksiz görünen insanlardır. Bunun gibi insanlar üstadların zamanlarını tüketirler; geri vermeden alırlar ve bizim daha ilginç başka bir soruya ve cevaba daha layık başka bir kişiye harcayabileceğimiz zamanı boşa harcarlar. Bu tür insanlara "ezikler" diyoruz (ve tarihsel nedenlerden dolayı bazen bunu "bilgisayar özürlüsü" diye yazıyoruz).
 
 Yazdığımız yazılımı sadece kullanmak isteyen, teknik detayları öğrenmekle ilgilenmeyen pek çok kişinin olduğunun farkındayız. Çoğu insan için bilgisayar yalnızca bir araçtır, amaca yönelik bir araçtır; onların yapacak daha önemli işleri ve yaşayacak hayatları var. Bunu kabul ediyoruz ve bizi ilgilendiren teknik konularla herkesin ilgilenmesini beklemiyoruz. Bununla birlikte, soruları yanıtlama tarzımız, bu tür bir ilgi *gösteren* ve problem çözmede aktif katılımcı olmaya istekli olan kişilere göre ayarlanmıştır. Bu değişmeyecek. Öyle de olmamalı; eğer öyle olsaydı, en iyi yaptığımız şeylerde daha az etkili olurduk.
 
-Biz (büyük ölçüde) gönüllüyüz. Soruları yanıtlamak için yoğun yaşamlarımızdan zaman ayırıyoruz ve zaman zaman bu sorulardan bunalıyoruz. Bu yüzden acımasızca filtreliyoruz. Özellikle soru cevaplama zamanımızı kazananlar üzerinde daha verimli geçirmek için kaybeden gibi görünen kişilerin sorularını atıyoruz.
+Biz (büyük ölçüde) gönüllüyüz. Soruları yanıtlamak için yoğun yaşamlarımızdan zaman ayırıyoruz ve zaman zaman bu sorulardan bunalıyoruz. Bu yüzden soruları (acımasızca) filtreliyoruz. Özellikle soru cevaplama zamanımızı kazananlar üzerinde daha verimli geçirmek için kaybeden gibi görünen kişilerin sorularını atıyoruz.
 
-Bu tutumu iğrenç, küçümseyici veya kibirli buluyorsanız varsayımlarınızı kontrol edin. Sizden bize diz çökmenizi istemiyoruz - aslında, eğer bunu mümkün kılmak için gerekli çabayı gösterirseniz, çoğumuz sizinle eşit olarak ilgilenmekten ve sizi kültürümüze kabul etmekten daha fazla seveceğimiz bir şey yoktur. Ancak kendilerine yardım etmeye istekli olmayan insanlara yardım etmeye çalışmak bizim için hiç de verimli değil. Cahil olmak sorun değil; aptalı oynamak doğru değil.
+Bu tutumu iğrenç, küçümseyici veya kibirli buluyorsanız varsayımlarınızı tekrar gözden geçiriniz. Sizden bize diz çökmenizi istemiyoruz. Aslında, eğer bunu mümkün kılmak için gerekli çabayı gösterirseniz, bir çoğumuz sizinle ilgilenmekten ve sizi kültürümüze kabul etmekten gayet memnuniyet duyarız. Ancak işbirlikçi olmayan insanlara yardımcı olmak bizim için hiç verimli değildir. Cehalet sorun değildir; aptalı oynamak asıl sorundur.
 
-Bu nedenle, bizden ilgi görmek için zaten teknik olarak yetkin olmanız gerekmese de, yetkinliğe yol açan türde bir tutum sergilemek *gereklidir* - uyanık, düşünceli, gözlemci, bir strateji geliştirmede aktif bir ortak olmaya istekli. çözüm. Bu tür bir ayrımcılıkla yaşayamıyorsanız, bilgisayar üstadlarından size kişisel olarak yardım bağışlamalarını istemek yerine, birine ticari destek sözleşmesi için ödeme yapmanızı öneririz.
+Bu nedenle, bizden ilgi görmek için zaten teknik olarak yetkin olmanız gerekmese de, yetkinliğe yol açan türde bir tutum sergilemek *gereklidir* - uyanık, düşünceli, gözlemci, bir strateji geliştirmede aktif bir ortak olmaya istekli. Bu tür bir ayrımcılıkla yaşayamıyorsanız, bilgisayar üstadlarından size kişisel olarak yardım bağışlamalarını istemek yerine, birine ticari destek sözleşmesi için ödeme yapmanızı öneririz.
 
-Yardım için bize gelmeye karar verirseniz kaybedenlerden biri olmak istemezsiniz. Sen de öyle görünmek istemezsin. Hızlı ve duyarlı bir yanıt almanın en iyi yolu, bu soruyu akıllı, kendine güvenen ve belirli bir sorunla ilgili yardıma ihtiyaç duyan ipuçlarına sahip biri gibi sormaktır.
+Yardım için bize gelmeye karar verirseniz kaybedenlerden biri olmak istemezsiniz. Siz de öyle görünmek istemezsiniz. Hızlı ve duyarlı bir yanıt almanın en iyi yolu, bu soruyu akıllı, kendine güvenen ve belirli bir sorunla ilgili yardıma ihtiyaç duyan ipuçlarına sahip biri gibi sormaktır.
 
 (Bu kılavuzda yapılacak iyileştirmeler memnuniyetle karşılanacaktır. Önerilerinizi [esr@thyrsus.com](mailto:esr@thyrsus.com) veya [respond-auto@linuxmafia.com](mailto:respond-auto@linuxmafia.com) adresine e-postayla gönderebilirsiniz. Bununla birlikte, bu belgenin [netik kuralları](http://www.ietf.org/rfc/rfc1855.txt) konusunda genel bir rehber olma niyetinde olmadığını ve özellikle yararlı bilgiler ortaya çıkarmakla ilgili olmayan önerileri teknik bir forumda genellikle reddedeceğimizi unutmayın.)
 
@@ -126,7 +126,7 @@ Yardım için bize gelmeye karar verirseniz kaybedenlerden biri olmak istemezsin
 
 E-posta yoluyla, bir haber grubunda veya bir web sitesinin sohbet panosunda teknik bir soru sormadan önce aşağıdakileri yapın:
 
-1. Mesaj göndermeyi planladığınız forumun veya e-posta listesinin arşivlerini arayarak bir cevap bulmaya çalışın.
+1. Mesaj göndermeyi planladığınız forumun veya e-posta listesinin arşivlerine göz atarak bir cevap bulmaya çalışın.
 2. Web'de arama yaparak bir cevap bulmaya çalışın.
 3. Kılavuzu okuyarak bir cevap bulmaya çalışın.
 4. SSS'yi okuyarak bir cevap bulmaya çalışın.
@@ -134,19 +134,19 @@ E-posta yoluyla, bir haber grubunda veya bir web sitesinin sohbet panosunda tekn
 6. Yetenekli bir arkadaşınıza sorarak cevap bulmaya çalışın.
 7. Programcıysanız kaynak kodunu okuyarak bir cevap bulmaya çalışın.
 
-Sorunuzu sorarken öncelikle bunları yaptığınızı gösterin; bu, tembel bir sünger gibi davranıp insanların zamanını boşa harcamadığınızı anlamanıza yardımcı olacaktır. Daha da iyisi, bunları yaparak *öğrendiklerinizi* gösterin. Cevaplardan öğrenebileceklerini göstermiş kişilerin sorularını yanıtlamayı seviyoruz.
+Sorunuzu sorarken öncelikle bunları yaptığınızı gösterin; bu, tembel bir hımbıl gibi davranıp insanların zamanını boşa harcamadığınızı anlamanıza yardımcı olacaktır. Daha da iyisi, bunları yaparak *öğrendiklerinizi* gösterin. Cevaplardan öğrenebileceklerini göstermiş kişilerin sorularını yanıtlamayı seviyoruz.
 
-Aldığınız hata mesajının metninde Google araması yapmak ([Google gruplarını](http://groups.google.com/) ve Web sayfalarını aramak) gibi taktikleri kullanın. Bu sizi doğrudan belgeleri düzeltmeye veya sorunuza yanıt veren bir posta listesi dizisine yönlendirebilir. Öyle olmasa bile, yardım isteyen e-postalarda veya haber gönderilerinde "Aşağıdaki ifadeyi Google'da araştırdım ancak umut verici görünen hiçbir şey bulamadım" demek iyi bir şeydir, çünkü yalnızca aramaların ne kazandırdığını kaydeder.' yardım etme. Ayrıca, arama terimlerini sorununuzun ve çözüm dizinizin ne olacağını umduğunuza bağlayarak, benzer sorunları olan diğer kişileri başlığınıza yönlendirmenize de yardımcı olacaktır.
+Aldığınız hata mesajının metninde Google araması yapmak ([Google gruplarını](http://groups.google.com/) ve Web sayfalarını aramak) gibi taktikleri kullanın. Bu sizi doğrudan belgeleri düzeltmeye veya sorunuza yanıt veren bir posta listesi dizisine yönlendirebilir. Öyle olmasa bile, yardım isteyen e-postalarda veya haber gönderilerinde "Aşağıdaki ifadeyi Google'da araştırdım ancak umut verici görünen hiçbir şey bulamadım" demek iyi bir fikirdir, çünkü yalnızca aramaların ne kazandırdığını gösterir. Ayrıca, arama terimlerini sorununuzun ve çözüm dizinizin ne olacağını umduğunuza bağlayarak, benzer sorunları olan diğer kişileri başlığınıza yönlendirmenize de yardımcı olacaktır.
 
-Acele etmeyin. Birkaç saniyelik Google aramasıyla karmaşık bir sorunu çözmeyi beklemeyin. SSS'leri okuyup anlayın, arkanıza yaslanın, rahatlayın ve uzmanlara başvurmadan önce sorunu biraz düşünün. Bize güvenin, sorularınızdan ne kadar okuduğunuzu ve ne kadar düşündüğünüzü anlayacaklar ve eğer hazırlıklı gelirseniz size yardım etmeye daha istekli olacaklar. İlk aramanızda yanıt bulunamadı (ya da çok fazla) diye tüm soru cephaneliğinizi anında ateşlemeyin.
+Acele etmeyin. Birkaç saniyelik arama motoru taramasıyla karmaşık bir sorunu çözmeyi beklemeyin. SSS'leri okuyup anlayın, arkanıza yaslanın, rahatlayın ve uzmanlara başvurmadan önce sorunu biraz düşünün. Bize güvenin, sorularınızdan ne kadar okuduğunuzu ve ne kadar düşündüğünüzü anlayacaklar ve eğer hazırlıklı gelirseniz size yardım etmeye daha istekli olacaklar. İlk aramanızda yanıt bulunamadı (ya da çok fazla) diye tüm soru cephaneliğinizi anında ateşlemeyin.
 
-Sorunuzu hazırlayın. İyice düşünün. Aceleci görünen sorular aceleci yanıtlar alır veya hiç almaz. Yardım aramadan önce sorununuzu çözmek için düşünce ve çaba harcadığınızı ne kadar çok gösterirseniz, gerçekten yardım alma olasılığınız o kadar artar.
+Sorunuzu hazırlayın. İyice düşünün. Aceleci görünen sorular aceleci yanıtlar alır veya hiç almaz. Yardım istemeden önce sorununuzu çözmek için düşünce ve çaba harcadığınızı ne kadar çok gösterirseniz, gerçekten yardım alma olasılığınız o kadar çok artar.
 
-Yanlış soruyu sormamaya dikkat edin. Hatalı varsayımlara dayanan bir soru sorarsanız, J. Random Hacker'ın "Aptal soru..." diye düşünürken ve ihtiyacınız olandan ziyade istediğinizi elde etme deneyimini umarak gereksiz derecede gerçekçi bir cevap vermesi muhtemeldir. sana bir ders verecek.
+Yanlış soruyu sormamaya dikkat edin. Hatalı varsayımlara dayanan bir soru sorarsanız, J. Random Hacker'ın "Aptal soru..." diye düşünürken ve ihtiyacınız olandan ziyade istediğinizi elde etme deneyimini umarak gereksiz derecede gerçekçi bir cevap vermesi muhtemeldir. Bu sana bir ders verecektir.
 
-Asla bir cevaba *hakkınız* olduğunu varsaymayın. Sen değilsin; sonuçta hizmet için para ödemiyorsunuz. Eğer hak ederseniz, önemli, ilginç ve düşündürücü bir soru sorarak bir yanıt elde edeceksiniz; başkalarından pasif bir şekilde bilgi talep etmek yerine, topluluğun deneyimine dolaylı olarak katkıda bulunan bir soru.
+Asla bir cevaba *hakkınız* olduğunu varsaymayın. Bir tek siz değilsiniz; sonuçta hizmet için para ödemiyorsunuz. Eğer hak ederseniz, önemli, ilginç ve düşündürücü bir soru sorarak bir yanıt elde edeceksiniz; başkalarından pasif bir şekilde bilgi talep etmek yerine, topluluğun deneyimine dolaylı olarak katkıda bulunan bir soru karşılığında cevap bulacaksınızdır.
 
-Öte yandan, çözümün geliştirilmesi sürecinde yardımcı olabileceğinizi ve yardım etmeye istekli olduğunuzu açıkça belirtmek çok iyi bir başlangıçtır. "Biri bir ipucu verebilir mi?", "Örneğimde eksik olan nedir?" ve "Hangi siteyi kontrol etmeliyim?" "Lütfen kullanmam gereken prosedürü tam olarak gönderin" yerine yanıt alma olasılığı daha yüksektir. çünkü birisi sizi doğru yöne yönlendirebilirse, süreci tamamlamaya gerçekten istekli olduğunuzu açıkça belirtiyorsunuz.
+Öte yandan, çözümün geliştirilmesi sürecinde yardımcı olabileceğinizi ve yardım etmeye istekli olduğunuzu açıkça belirtmek çok iyi bir başlangıçtır. "Biri bir ipucu verebilir mi?", "Örneğimde eksik olan nedir?" ve "Hangi siteyi kontrol etmeliyim?" "Lütfen kullanmam gereken prosedürü tam olarak gönderin" yerine yanıt alma olasılığı daha yüksektir. Çünkü birisi sizi doğru yöne yönlendirebilirse, süreci tamamlamaya gerçekten istekli olduğunuzu açıkça belirtiyorsunuzdur.
 
 ## Sorduğunuzda
 
