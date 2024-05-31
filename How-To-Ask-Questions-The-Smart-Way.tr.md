@@ -200,7 +200,7 @@ Yerel kullanıcı grubunuz veya Linux dağıtımınız, yeni başlayanların yar
 
 Aslında, size sorun çıkaran programı bir Linux dağıtımından aldıysanız (günümüzde yaygın olduğu gibi), programın proje forumunu/listesini denemeden önce dağıtımın forumunu/listesini sormak daha iyi olabilir. Projenin bilgisayar üstadları “*bizim* yapımızı kullan” diyebilir.
 
-Herhangi bir Web forumuna mesaj göndermeden önce, Arama özelliğinin olup olmadığını kontrol edin. Eğer öyleyse, sorununuz gibi bir şey için birkaç anahtar kelime araması yapmayı deneyin; sadece yardımcı olabilir. Daha önce genel bir Web araması yaptıysanız (yapmanız gerektiği gibi), yine de forumda arama yapın; Web çapındaki arama motorunuz yakın zamanda bu forumun tamamını dizine eklememiş olabilir.
+Herhangi bir Web forumuna mesaj göndermeden önce, Arama özelliğinin olup olmadığını kontrol edin. Eğer öyleyse, sorununuz gibi bir şey için birkaç anahtar kelime araması yapmayı deneyin; bu yardımcı olabilir. Daha önce genel bir Web araması yaptıysanız (yapmanız gerektiği gibi), yine de forumda arama yapın; Web çapındaki arama motorunuz yakın zamanda bu forumun tamamını dizine eklememiş olabilir.
 
 E-postanın daha çok geliştirme trafiğine ayrılmasıyla, projelerde kullanıcı desteğinin bir Web forumu veya IRC kanalı üzerinden sağlanması yönünde artan bir eğilim vardır. Bu nedenle, projeye özel yardım ararken öncelikle bu kanalları arayın.
 
