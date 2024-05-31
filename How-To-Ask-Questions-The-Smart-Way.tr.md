@@ -155,18 +155,18 @@ Asla bir cevaba *hakkınız* olduğunu varsaymayın. Bir tek cevap bekleyen siz 
 
 Sorunuzu nerede soracağınızı seçerken hassas olun. Aşağıdaki durumlarda muhtemelen göz ardı edilecek veya kaybeden olarak yazılacaksınız:
 
-- sorunuzu konu dışı olan bir foruma gönderin
-- ileri düzey teknik soruların beklendiği bir foruma çok basit bir soru gönderin veya tam tersi
-- çok fazla farklı haber grubuna çapraz paylaşım
-- ne tanıdığınız ne de probleminizin çözümünden kişisel olarak sorumlu olmayan birine kişisel bir e-posta göndermek
+- sorunuzu konu dışı olan bir foruma gönderirseniz
+- ileri düzey teknik soruların beklendiği bir foruma çok basit bir soru gönderirseniz veya tam tersini yaparsanız
+- çok fazla farklı haber grubuna aynı anda mesaj gönderirseniz
+- ne tanıdığınız ne de probleminizin çözümünden kişisel olarak sorumlu olmayan birine kişisel bir e-posta gönderirseniz
 
 Bilgisayar üstadları, iletişim kanallarını ilgisizlik içinde boğulmaktan korumak için, uygunsuz bir şekilde hedeflenen soruları savururlar. Bunun senin başına gelmesini istemezsin.
 
-Bu nedenle ilk adım doğru forumu bulmaktır. Tekrar ediyorum, Google ve diğer Web arama yöntemleri arkadaşınızdır. Size zorluk çıkaran donanım veya yazılımla en yakından ilişkili proje web sayfasını bulmak için bunları kullanın. Genellikle SSS (Sıkça Sorulan Sorular) listesine ve proje posta listelerine ve bunların arşivlerine bağlantılar bulunur. Bu e-posta listeleri, kendi çabalarınız (bulduğunuz SSS'leri *okumak* da dahil) size bir çözüm bulamazsa, yardım için gidilecek son yerlerdir. Proje sayfası ayrıca bir hata raporlama prosedürünü açıklayabilir veya bir hata raporlama prosedürüne bağlantı içerebilir; eğer öyleyse, takip edin.
+Bu nedenle ilk adım doğru forumu bulmaktır. Tekrar ediyorum, Google ve diğer Web arama yöntemleri arkadaşınızdır. Size zorluk çıkaran donanım veya yazılımla en yakından ilişkili proje web sayfasını bulmak için bunları kullanın. Genellikle SSS (Sıkça Sorulan Sorular) listesine ve proje e-posta listelerine ve bunların arşivlerine bağlantılar bulunur. Bu e-posta listeleri, kendi çabalarınız (bulduğunuz SSS'ları *okumak* da dahil) size bir çözüm bulamazsa, yardım için gidilecek son yerlerdir. Proje sayfası ayrıca bir hata raporlama prosedürünü açıklayabilir veya bir hata raporlama prosedürüne bağlantı içerebilir; eğer öyleyse, bu yolu takip edin.
 
-Aşina olmadığınız bir kişiye veya foruma e-posta göndermek en iyi ihtimalle risklidir. Örneğin, bilgilendirici bir web sayfasının yazarının ücretsiz danışmanınız olmak istediğini varsaymayın. Sorunuzun hoş karşılanıp karşılanmayacağı konusunda iyimser tahminlerde bulunmayın; emin değilseniz, soruyu başka bir yere gönderin veya göndermekten kaçının.
+Alışık olmadığınız bir kişiye veya foruma e-posta göndermek en iyi ihtimalle risklidir. Örneğin, bilgilendirici bir web sayfasının yazarının ücretsiz danışmanınız olmak istediğini varsaymayın. Sorunuzun hoş karşılanıp karşılanmayacağı konusunda iyimser tahminlerde bulunmayın; emin değilseniz, soruyu başka bir yere gönderin veya göndermekten kaçının.
 
-Bir Web forumu, haber grubu veya e-posta listesi seçerken ismin kendisine çok fazla güvenmeyin; Sorunuzun konuyla ilgili olduğunu doğrulamak için bir SSS veya sözleşme arayın. Göndermeden önce arka trafiğin bir kısmını okuyun, böylece orada işlerin nasıl yapıldığına dair bir fikir edinirsiniz. Aslında, posta göndermeden önce haber grubu veya posta listesi arşivlerinde sorununuzla ilgili kelimeler için anahtar kelime araması yapmak çok iyi bir fikirdir. Size bir cevap bulabilir ve bulamazsanız daha iyi bir soru oluşturmanıza yardımcı olabilir.
+Bir Web forumu, haber grubu veya e-posta listesi seçerken ismin kendisine çok fazla güvenmeyin; Sorunuzun konuyla ilgili olduğunu doğrulamak için bir SSS veya sözleşme arayın. Göndermeden önce geçmişe ait belgelerin bir kısmını okuyun, böylece orada işlerin nasıl yapıldığına dair bir fikir edinirsiniz. Aslında, posta göndermeden önce haber grubu veya posta listesi arşivlerinde sorununuzla ilgili kelimeler için anahtar kelime araması yapmak çok iyi bir fikirdir. Size bir cevap bulabilir ve bulamazsanız daha iyi bir soru oluşturmanıza yardımcı olabilir.
 
 Mevcut tüm yardım kanallarını aynı anda bombalamayın, bu bağırmak gibidir ve insanları rahatsız eder. Aralarından yavaşça geçin.
 
@@ -174,7 +174,7 @@ Konunuzun ne olduğunu bilin! Klasik hatalardan biri, bir dile veya kitaplığa 
 
 Genel olarak, iyi seçilmiş halka açık bir foruma yöneltilen soruların, özel bir foruma yöneltilen eşdeğer sorulara göre yararlı yanıtlar alma olasılığı daha yüksektir. Bunun birden fazla nedeni var. Bunlardan biri, potansiyel yanıt veren havuzunun büyüklüğüdür. Bir diğeri ise izleyicinin büyüklüğüdür; Bilgisayar üstadları, yalnızca birkaç kişiye hizmet eden soruları yanıtlamak yerine, birçok insanı eğiten soruları yanıtlamayı tercih ediyor.
 
-Anlaşılır bir şekilde, yetenekli bilgisayar üstadları ve popüler yazılım yazarları, zaten yanlış hedeflenmiş mesajlardan paylarına düşenden fazlasını alıyorlar. Seli daha da büyüterek, aşırı durumlarda bardağı taşıran son damla bile olabilirsiniz - pek çok kez, popüler projelere katkıda bulunanlar, kişisel hesaplarına yararsız e-posta trafiği şeklinde ikincil zararlar verdiği için desteklerini geri çekmişlerdir. dayanılmaz hale geldi.
+Anlaşılır bir şekilde, yetenekli bilgisayar üstadları ve popüler yazılım yazarları, zaten yanlış hedeflenmiş mesajlardan paylarına düşenden fazlasını alıyorlar. Seli daha da büyüterek, aşırı durumlarda bardağı taşıran son damla bile olabilirsiniz - pek çok kez, popüler projelere katkıda bulunanlar, kişisel hesaplarına yararsız e-posta trafiği şeklinde ikincil zararlar verdiği için desteklerini geri çekmişlerdir ve bu artık dayanılmaz hale gelmiştir.
 
 ### Stack Overflow
 
