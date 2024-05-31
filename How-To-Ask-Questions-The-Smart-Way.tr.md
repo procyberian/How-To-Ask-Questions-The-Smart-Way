@@ -252,7 +252,7 @@ Web forumlarında iyi uygulama kuralları biraz farklıdır çünkü mesajlar ge
 
 ### Yanıtlamayı kolaylaştırın
 
-Sorgunuzu "Lütfen yanıtınızı şu adrese gönderin..." şeklinde bitirmek, yanıt alma olasılığınızı oldukça azaltır. Posta aracınızda doğru bir Yanıtla başlığı oluşturmak için gereken birkaç saniyeyi bile ayırma zahmetine giremiyorsanız, sorununuz hakkında düşünmek için birkaç saniye bile ayırma zahmetine giremeyiz. Posta programınız buna izin vermiyorsa [daha iyi bir posta programı edinin](http://linuxmafia.com/faq/Mail/muas.html). İşletim sisteminiz buna izin veren herhangi bir e-posta programını desteklemiyorsa daha iyi bir işletim sistemi edinin.
+Sorgunuzu "Lütfen yanıtınızı şu adrese gönderin..." şeklinde bitirmek, yanıt alma olasılığınızı oldukça azaltır. Posta aracınızda doğru bir yanıtla başlığı oluşturmak için gereken birkaç saniyeyi bile ayırma zahmetine giremiyorsanız, sorununuz hakkında düşünmek için birkaç saniye bile ayırma zahmetine giremeyiz. Posta programınız buna izin vermiyorsa [daha iyi bir posta programı edinin](http://linuxmafia.com/faq/Mail/muas.html). İşletim sisteminiz buna izin veren herhangi bir e-posta programını desteklemiyorsa daha iyi bir işletim sistemi edinin.
 
 Web forumlarında, bilginin hassas olabileceğine inanmıyorsanız (ve birileri bilinmeyen bir nedenden dolayı bunu tüm forumun bilmesine değil size bildirecekse) e-postayla yanıt istemek tamamen kabalıktır. Birisi konuya yanıt verdiğinde bir e-posta kopyası istiyorsanız, Web forumunun bunu göndermesini isteyin; bu özellik hemen hemen her yerde "bu konuyu izle", "cevaplarda e-posta gönder" vb. seçenekler altında desteklenir.
 
