@@ -130,7 +130,7 @@ E-posta yoluyla, bir haber grubunda veya bir web sitesinin sohbet panosunda tekn
 1. Mesaj göndermeyi planladığınız forumun veya e-posta listesinin arşivlerine göz atarak bir cevap bulmaya çalışın.
 2. Web'de arama yaparak bir cevap bulmaya çalışın.
 3. Kılavuzu okuyarak bir cevap bulmaya çalışın.
-4. SSS'yi okuyarak bir cevap bulmaya çalışın.
+4. SSS'ları okuyarak bir cevap bulmaya çalışın.
 5. İnceleme veya deney yaparak bir cevap bulmaya çalışın.
 6. Yetenekli bir arkadaşınıza sorarak cevap bulmaya çalışın.
 7. Programcıysanız kaynak kodunu okuyarak bir cevap bulmaya çalışın.
