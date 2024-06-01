@@ -376,7 +376,7 @@ Bu kuralın sınırlı bir istisnası vardır. Sorunun, birbirine çok yakın bi
 
 ### Sorunuz hakkında açık olun
 
-Açık uçluff sorular, açık uçlu zaman alıcı olarak algılanma eğilimindedir. Size yararlı bir yanıt verme olasılığı en yüksek olan kişiler aynı zamanda en meşgul kişilerdir (en fazla işi kendileri üstlendikleri için de olsa). Bu tür insanların açık uçlu zaman harcamalarına alerjisi vardır, dolayısıyla açık uçlu sorulara da alerjisi olma eğilimindedirler.
+Açık uçlu sorular, açık uçlu zaman alıcı olarak algılanma eğilimindedir. Size yararlı bir yanıt verme olasılığı en yüksek olan kişiler aynı zamanda en meşgul kişilerdir (en fazla işi kendileri üstlendikleri için de olsa). Bu tür insanların açık uçlu zaman harcamalarına alerjisi vardır, dolayısıyla açık uçlu sorulara da alerjisi olma eğilimindedirler.
 
 Yanıtlayanların ne yapmasını istediğinizi açıkça belirtirseniz (işaretçiler sağlayın, kod gönderin, yamanızı kontrol edin, vb.) yararlı bir yanıt alma olasılığınız daha yüksektir. Bu onların çabalarına odaklanacak ve katılımcının size yardım etmek için ayırması gereken zaman ve enerjiye dolaylı olarak bir üst sınır koyacaktır. Bu iyi bir şeydir.
 
