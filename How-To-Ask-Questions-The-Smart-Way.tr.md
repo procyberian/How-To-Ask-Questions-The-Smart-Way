@@ -92,7 +92,7 @@ Translations: [Bahasa Indonesian](http://bulsara.host.sk/index.php?p=2005) [Belo
 
 ## Sorumluluk reddi beyanı
 
-Pek çok proje web sitesi, nasıl yardım alınabileceğine ilişkin bölümlerinde bu belgeye bağlantı verir. Sorun değil, amaçladığımız kullanım budu. Ancak proje sayfanız için böyle bir bağlantı oluşturan bir web yöneticisiyseniz, lütfen bağlantının yanında *projeniz için bir yardım masası olmadığımızı* belirten dikkat çekici bir uyarıyı duyurunuz!
+Pek çok proje web sitesi, nasıl yardım alınabileceğine ilişkin bölümlerinde bu belgeye bağlantı verir. Bu bir sorun değilir, aksine amaçladığımız kullanım budur. Ancak proje sayfanız için böyle bir bağlantı oluşturan bir web yöneticisiyseniz, lütfen bağlantının yanında *projeniz için bir yardım masası olmadığımızı* belirten dikkat çekici bir uyarıyı belirtiniz!
 
 Böyle bir bildirim olmadan, bu belgeyi yayınlamanın dünyanın tüm teknik sorunlarını çözmeyi bizim işimiz haline getirdiğini düşünen aptallar tarafından defalarca rahatsız edileceğimizi zor yoldan öğrendik.
 
@@ -100,10 +100,9 @@ Bu belgeyi yardıma ihtiyacınız olduğu için okuyorsanız ve bu belgeyi doğr
 
 ## Giriş
 
-[Üstadların](http://www.catb.org/~esr/faqs/hacker-howto.html) dünyasında, teknik sorularınıza alacağınız yanıtların türü, soruları sorma şeklinize olduğu kadar bağlıdır Cevabı geliştirmenin zorluğu gibi. Bu kılavuz size, tatmin edici bir yanıt alma olasılığınız daha yüksek olacak şekilde nasıl soru soracağınızı öğretecektir.
+[Üstadların](http://www.catb.org/~esr/faqs/hacker-howto.html) dünyasında, teknik sorularınıza alacağınız yanıtların türü, soruları sorma şeklinize bağlıdır. Cevabı geliştirmenin zorluğu gibi. Bu kılavuz size, tatmin edici bir yanıt alma olasılığınız daha yüksek olacak şekilde nasıl soru soracağınızı öğretecektir.
 
-Artık açık kaynak kullanımı yaygınlaştığından, genellikle bilgisayar üstadlarından olduğu kadar daha deneyimli kullanıcılardan da iyi yanıtlar alabilirsiniz. Bu iyi birşey; kullanıcılar, yeni başlayanların sıklıkla karşılaştığı türden hatalara karşı biraz daha hoşgörülü olma eğilimindedir. Yine de deneyimli kullanıcılara burada önerdiğimiz şekilde bilgisayar üstadları gibi davranmak genellikle onlardan yararlı yanıtlar almanın en etkili yolu olacaktır.
-
+Artık açık kaynak kullanımı yaygınlaştığından, genellikle bilgisayar üstadlarından olduğu kadar daha deneyimli kullanıcılardan da iyi yanıtlar alabilirsiniz. Bu iyi birşeydir; kullanıcılar, yeni başlayanların sıklıkla karşılaştığı türden hatalara karşı biraz daha hoşgörülü olma eğilimindedir. Yine de deneyimli kullanıcılara burada önerdiğimiz şekilde bilgisayar üstadları gibi davranmak genellikle onlardan yararlı yanıtlar almanın en etkili yolu olacaktır.
 
 Anlaşılması gereken ilk şey, bilgisayar üstadlarının aslında zor problemlerden ve onlar hakkında iyi, düşündürücü sorulardan hoşlandığıdır. Eğer öyle olmasaydı burada olmazdık. Bize üzerinde duracağımız ilginç bir soru verirseniz size minnettar olacağız; İyi sorular bir teşvik ve bir hediyedir. İyi sorular anlayışımızı geliştirmemize yardımcı olur ve genellikle başka türlü fark etmediğimiz veya düşünmediğimiz sorunları ortaya çıkarır. Bilgisayar üstadları arasında "Güzel soru!" güçlü ve samimi bir iltifattır.
 
@@ -115,7 +114,7 @@ Yazdığımız yazılımı sadece kullanmak isteyen, teknik detayları öğrenme
 
 Biz (büyük ölçüde) gönüllüyüz. Soruları yanıtlamak için yoğun yaşamlarımızdan zaman ayırıyoruz ve zaman zaman bu sorulardan bunalıyoruz. Bu yüzden soruları (acımasızca) filtreliyoruz. Özellikle soru cevaplama zamanımızı kazananlar üzerinde daha verimli geçirmek için kaybeden gibi görünen kişilerin sorularını atıyoruz.
 
-Bu tutumu iğrenç, küçümseyici veya kibirli buluyorsanız varsayımlarınızı kontrol edin. Sizden bize diz çökmenizi istemiyoruz. Aslında, eğer bunu mümkün kılmak için gerekli çabayı gösterirseniz, çoğumuz sizinle eşit olarak ilgilenmekten ve sizi kültürümüze kabul etmekten daha fazla seveceğimiz bir şey yoktur. Ancak kendilerine yardım etmeye istekli olmayan insanlara yardım etmeye çalışmak bizim için hiç de verimli değildir. Cahil olmak sorun değildir; aptalı oynamak asıl sorundur.
+Bu tutumu iğrenç, küçümseyici veya kibirli buluyorsanız varsayımlarınızı gözden geçiriniz. Sizden bize diz çökmenizi istemiyoruz. Aslında, eğer bunu mümkün kılmak için gerekli çabayı gösterirseniz, çoğumuz sizinle eşit olarak ilgilenmekten ve sizi kültürümüze kabul etmekten daha fazla seveceğimiz bir şey yoktur. Ancak kendilerine yardım etmeye istekli olmayan insanlara yardım etmeye çalışmak bizim için hiç de verimli değildir. Cahil olmak sorun değildir; aptalı oynamak asıl sorundur.
 
 Bu nedenle, bizden ilgi görmek için zaten teknik olarak yetkin olmanız gerekmese de, yetkinliğe yol açan türde bir tutum sergilemek *gereklidir*. Uyanık, düşünceli, gözlemci, bir strateji geliştirmede aktif bir ortak olmaya istekli ve çözümün bir parçası olarak. Bu tür bir ayrımcılıkla yaşayamıyorsanız, bilgisayar üstadlarından size kişisel olarak yardım bağışlamalarını istemek yerine, birine ticari destek sözleşmesi için ödeme yapmanızı öneririz.
 
@@ -133,7 +132,7 @@ E-posta yoluyla, bir haber grubunda veya bir web sitesinin sohbet panosunda tekn
 4. SSS'ları okuyarak bir cevap bulmaya çalışın.
 5. İnceleme veya deney yaparak bir cevap bulmaya çalışın.
 6. Yetenekli bir arkadaşınıza sorarak cevap bulmaya çalışın.
-7. Programcıysanız kaynak kodunu okuyarak bir cevap bulmaya çalışın.
+7. Programcıysanız ilgili programın kaynak kodunu okuyarak bir cevap bulmaya çalışın.
 
 Sorunuzu sorarken öncelikle bunları yaptığınızı gösterin; bu, tembel bir hımbıl gibi davranıp insanların zamanını boşa harcamadığınızı anlamanıza yardımcı olacaktır. Daha da iyisi, bunları yaparak *öğrendiklerinizi* gösterin. Cevaplardan öğrenebileceklerini göstermiş kişilerin sorularını yanıtlamayı seviyoruz.
 
@@ -166,7 +165,7 @@ Bu nedenle ilk adım doğru forumu bulmaktır. Tekrar ediyorum, Google ve diğer
 
 Alışık olmadığınız bir kişiye veya foruma e-posta göndermek en iyi ihtimalle risklidir. Örneğin, bilgilendirici bir web sayfasının yazarının ücretsiz danışmanınız olmak istediğini varsaymayın. Sorunuzun hoş karşılanıp karşılanmayacağı konusunda iyimser tahminlerde bulunmayın; emin değilseniz, soruyu başka bir yere gönderin veya göndermekten kaçının.
 
-Bir Web forumu, haber grubu veya e-posta listesi seçerken ismin kendisine çok fazla güvenmeyin; Sorunuzun konuyla ilgili olduğunu doğrulamak için bir SSS veya sözleşme arayın. Göndermeden önce geçmişe ait belgelerin bir kısmını okuyun, böylece orada işlerin nasıl yapıldığına dair bir fikir edinirsiniz. Aslında, posta göndermeden önce haber grubu veya posta listesi arşivlerinde sorununuzla ilgili kelimeler için anahtar kelime araması yapmak çok iyi bir fikirdir. Size bir cevap bulabilir ve bulamazsanız daha iyi bir soru oluşturmanıza yardımcı olabilir.
+Bir Web forumu, haber grubu veya e-posta listesi seçerken ismin kendisine çok fazla güvenmeyin; Sorunuzun konuyla ilgili olduğunu doğrulamak için bir SSS veya sözleşme arayın. Göndermeden önce geçmişe ait belgelerin bir kısmını okuyun, böylece orada işlerin nasıl yapıldığına dair bir fikir edinirsiniz. Aslında, posta göndermeden önce haber grubu veya e-posta listesi arşivlerinde sorununuzla ilgili kelimeler için anahtar kelime araması yapmak çok iyi bir fikirdir. Size bir cevap bulabilir ve bulamazsanız daha iyi bir soru oluşturmanıza yardımcı olabilir.
 
 Mevcut tüm yardım kanallarını aynı anda bombalamayın, bu bağırmak gibidir ve insanları rahatsız eder. Aralarından yavaşça geçin.
 
@@ -208,7 +207,7 @@ IRC'de muhtemelen ilk iş olarak kanala uzun bir sorun açıklaması dökmemek e
 
 ### İkinci adım olarak proje posta listelerini kullanın
 
-Bir projenin geliştirme e-posta listesi varsa, sorunuzu kimin en iyi şekilde yanıtlayabileceğini bildiğinize inansanız bile, bireysel geliştiricilere değil e-posta listesine yazın. Proje posta listesinin adresi için projenin belgelerini ve ana sayfasını kontrol edin ve kullanın. Bu politikanın birkaç iyi nedeni var:
+Bir projenin geliştirme e-posta listesi varsa, sorunuzu kimin en iyi şekilde yanıtlayabileceğini bildiğinize inansanız bile, bireysel geliştiricilere değil e-posta listesine yazın. Proje e-posta listesinin adresi için projenin belgelerini ve ana sayfasını kontrol edin ve kullanın. Bu politikanın birkaç iyi nedeni var:
 
 - Bir geliştiriciye sorulabilecek kadar iyi olan herhangi bir soru aynı zamanda tüm grup için de değerli olacaktır. Aksine, sorunuzun bir posta listesi için fazla aptalca olduğundan şüpheleniyorsanız, bu bireysel geliştiricileri taciz etmek için bir mazeret değildir.
 - Listedeki soruların sorulması geliştiriciler arasındaki yükü dağıtır. Bireysel geliştirici (özellikle proje lideriyse) sorularınızı yanıtlayamayacak kadar meşgul olabilir.
@@ -246,13 +245,13 @@ Yanıt olarak bir soru sorarsanız konu satırını soru sorduğunuzu belirtecek
 
 Tamamen yeni bir konu başlatmak için liste mesajını yanıtla tuşuna basmayın. Bu kitlenizi sınırlayacaktır. Mutt gibi bazı posta okuyucuları, kullanıcının ileti dizisine göre sıralamasına ve ardından ileti dizisini katlayarak ileti dizisindeki mesajları gizlemesine olanak tanır. Bunu yapan kişiler mesajınızı asla göremez.
 
-Konuyu değiştirmek yeterli değil. Mutt ve muhtemelen diğer posta okuyucuları, konu satırına değil, bir konuya atamak için e-postanın başlıklarındaki diğer bilgilere bakar. Bunun yerine tamamen yeni bir e-posta başlatın.
+Konuyu değiştirmek yeterli değil. Mutt ve muhtemelen diğer e-posta okuyucuları, konu satırına değil, bir konuya atamak için e-postanın başlıklarındaki diğer bilgilere bakar. Bunun yerine tamamen yeni bir e-posta başlatın.
 
 Web forumlarında iyi uygulama kuralları biraz farklıdır çünkü mesajlar genellikle belirli tartışma başlıklarına çok daha sıkı bir şekilde bağlıdır ve çoğu zaman bu konuların dışında görünmez. Cevap olarak bir soru sorarken konuyu değiştirmek şart değildir. Tüm forumlarda yanıtlarda ayrı konu satırlarına bile izin verilmez ve izin verildiğinde neredeyse hiç kimse bunları okumaz. Ancak cevap olarak soru sormak başlı başına şüpheli bir uygulamadır çünkü bunu yalnızca bu konuyu izleyenler görecektir. Bu nedenle, yalnızca başlıkta aktif olan kişilere sormak *istediğinizden* emin değilseniz, yeni bir başlık başlatın.
 
 ### Yanıtlamayı kolaylaştırın
 
-Sorgunuzu "Lütfen yanıtınızı şu adrese gönderin..." şeklinde bitirmek, yanıt alma olasılığınızı oldukça azaltır. Posta aracınızda doğru bir yanıtla başlığı oluşturmak için gereken birkaç saniyeyi bile ayırma zahmetine giremiyorsanız, sorununuz hakkında düşünmek için birkaç saniye bile ayırma zahmetine giremeyiz. Posta programınız buna izin vermiyorsa [daha iyi bir posta programı edinin](http://linuxmafia.com/faq/Mail/muas.html). İşletim sisteminiz buna izin veren herhangi bir e-posta programını desteklemiyorsa daha iyi bir işletim sistemi edinin.
+Sorgunuzu "Lütfen yanıtınızı şu adrese gönderin..." şeklinde bitirmek, yanıt alma olasılığınızı oldukça azaltır. E-posta aracınızda doğru bir yanıtla başlığı oluşturmak için gereken birkaç saniyeyi bile ayırma zahmetine giremiyorsanız, sorununuz hakkında düşünmek için birkaç saniye bile ayırma zahmetine giremeyiz. Posta programınız buna izin vermiyorsa [daha iyi bir e-posta programı edinin](http://linuxmafia.com/faq/Mail/muas.html). İşletim sisteminiz buna izin veren herhangi bir e-posta programını desteklemiyorsa daha iyi bir işletim sistemi edinin.
 
 Web forumlarında, bilginin hassas olabileceğine inanmıyorsanız (ve birileri bilinmeyen bir nedenden dolayı bunu tüm forumun bilmesine değil size bildirecekse) e-postayla yanıt istemek tamamen kabalıktır. Birisi konuya yanıt verdiğinde bir e-posta kopyası istiyorsanız, Web forumunun bunu göndermesini isteyin; bu özellik hemen hemen her yerde "bu konuyu izle", "cevaplarda e-posta gönder" vb. seçenekler altında desteklenir.
 
@@ -260,7 +259,7 @@ Web forumlarında, bilginin hassas olabileceğine inanmıyorsanız (ve birileri 
 
 Deneyimlerimiz sonucunda dikkatsiz ve özensiz yazarların aynı zamanda düşünme ve kodlama konusunda da dikkatsiz ve özensiz olduklarını (zaten çoğu zaman üzerine bahse girecek kadar) bulduk. Dikkatsiz ve özensiz düşünenlerin sorularını yanıtlamak ödüllendirici değildir; zamanımızı başka bir yerde geçirmeyi tercih ederiz.
 
-Bu nedenle sorunuzu açık ve güzel bir şekilde ifade etmeniz önemlidir. Eğer siz bunu yapmaktan rahatsız olamazsanız, biz de dikkat etmekten rahatsız olamayız. Dilinizi geliştirmek için ekstra çaba harcayın. Katı veya resmi olması gerekmez; aslında hacker kültürü, resmi olmayan, argo ve esprili bir dilin titizlikle kullanılmasına değer verir. Ancak kesin *olması* gerekiyor; Düşündüğünüze ve dikkat ettiğinize dair bazı belirtiler olmalıdır.
+Bu nedenle sorunuzu açık ve güzel bir şekilde ifade etmeniz önemlidir. Eğer siz bunu yapmaktan rahatsız olamazsanız, biz de dikkat etmekten rahatsız olamayız. Dilinizi geliştirmek için ekstra çaba harcayın. Katı veya resmi olması gerekmez; aslında hacker kültürü, resmi olmayan, argo ve esprili bir dilin titizlikle kullanılmasına değer verir. Ancak kesin *olması* gerekiyor; çünkü düşündüğünüze ve dikkat ettiğinize dair bazı belirtiler olmalıdır.
 
 Doğru şekilde yazın, noktalayın ve büyük harf kullanın. "Onun"u "o" ile, "gevşek"i "kaybetmek"le veya "ayrık"ı "gizli" ile karıştırmayın. TAMAMI BÜYÜK HARFLERLE YAZMAYIN; bu bağırmak olarak okunur ve kaba kabul edilir. (Tamamen küçükler, okunması zor olduğundan biraz daha az sinir bozucudur. Alan Cox bundan kurtulabilir ama siz yapamazsınız.)
 
@@ -279,7 +278,7 @@ Ana dilinizi kullanmayan bir forumda soru soruyorsanız, yazım ve dilbilgisi ha
 
 Sorunuzu yapay olarak okunmasını zorlaştırırsanız, sorunun, öyle olmayan bir soruyla geçiştirilmesi daha olasıdır. Bu yüzden:
 
-- HTML değil, düz metin postası gönderin. ([HTML'yi kapatmak](http://www.birdhouse.org/etc/evilmail.html) zor değil.)
+- HTML değil, düz metin postası gönderin. ([HTML'yi kapatmak](http://www.birdhouse.org/etc/evilmail.html) Bu zor değildir.)
 - MIME ekleri genellikle sorun yaratmaz, ancak bunlar yalnızca gerçek içerikse (ekli bir kaynak dosya veya yama gibi) ve yalnızca posta istemciniz tarafından oluşturulan standart metinler (mesajınızın başka bir kopyası gibi) değillerse.
 - Paragrafların tamamının tek satırla çarpıldığı e-postalar göndermeyin. (Bu, mesajın yalnızca bir kısmına yanıt vermeyi çok zorlaştırır.) Yanıtlayanlarınızın postalarını 80 karakter genişliğindeki metin ekranlarında okuyacağını varsayalım ve satır kaydırmanızı buna göre 80'den az bir değere ayarlayın.
 - Ancak verileri (günlük dosyası dökümleri veya oturum transkriptleri gibi) herhangi bir sabit sütun genişliğinde *sarmayın*. Veriler olduğu gibi dahil edilmelidir, böylece yanıtlayanlar sizin gördüklerinizi gördüklerine güvenebilirler.
@@ -315,7 +314,7 @@ Bu en az üç nedenden dolayı faydalıdır. Bir: Soruyu basitleştirmek için �
 
 Bir yazılımla ilgili sorun yaşadığınızda, sağlamlığınızdan çok *çok* emin olmadığınız sürece bir hata bulduğunuzu iddia etmeyin. İpucu: Sorunu çözen bir kaynak kodu yaması veya yanlış davranış gösteren önceki bir sürüme karşı bir regresyon testi sağlayamadıkça, muhtemelen yeterince emin değilsiniz. Bu, web sayfaları ve belgeler için de geçerlidir; Eğer bir dokümantasyonda “hata” bulduysanız, değiştirilecek metni ve bunun hangi sayfalarda devam etmesi gerektiğini belirtmelisiniz.
 
-Sizin sorununuzu yaşamayan birçok kullanıcı olduğunu unutmayın. Aksi takdirde, belgeleri okurken ve Web'de arama yaparken bunu öğrenmiş olurdunuz (bunu şikayet etmeden önce yaptınız, [değil miydiniz](http://www.catb.org/~esr/faqs/smart-questions.html) #önce)?). Bu, muhtemelen yanlış bir şey yapanın yazılım değil, siz olduğunuz anlamına gelir.
+Sizin sorununuzu yaşamayan birçok kullanıcı olduğunu unutmayın. Aksi takdirde, belgeleri okurken ve Web'de arama yaparken bunu öğrenmiş olurdunuz (bunu şikayet etmeden önce yaptınız, [değil miydiniz](http://www.catb.org/~esr/faqs/smart-questions.html#before)?). Bu, muhtemelen yanlış bir şey yapanın yazılım değil, siz olduğunuz anlamına gelir.
 
 Yazılımı yazan kişiler, yazılımın mümkün olduğu kadar iyi çalışması için çok çalışıyorlar. Bir hata bulduğunuzu iddia ederseniz, onların yetkinliğine itiraz etmiş olursunuz, bu da haklı olsanız bile bazılarını rahatsız edebilir. Konu satırında "böcek" diye bağırmak özellikle diplomatik olmayan bir davranıştır.
 
@@ -329,7 +328,7 @@ Kaba primat politikalarıyla ne kendi zamanınızı, ne de bizim zamanımızı b
 
 Bazen Web forumlarında yeni başlayanlar için sorular için ayrı yerler bulunur. Yeni başlayanlara yönelik bir sorunuz olduğunu düşünüyorsanız oraya gidin. Ama orada da boyun eğmeyin.
 
-### Tahminlerinizi değil sorunun belirtilerini açıklayın
+### Tahminlerinizi değil sorunun belirtilerini façıklayın
 
 Bilgisayar üstadlarına sorununuza neyin neden olduğunu düşündüğünüzü söylemenin faydası yoktur. (Teşhis teorileriniz bu kadar popüler olsaydı, yardım için başkalarına danışır mıydınız?) Bu nedenle, yorumlarınız ve teorileriniz yerine, onlara neyin yanlış gittiğinin ham belirtilerini anlattığınızdan emin olun. Yorumunu, teşhisini onlar yapsın. Tahmininizi belirtmenin önemli olduğunu düşünüyorsanız, bunu açıkça belirtin ve bu cevabın neden işinize yaramadığını açıklayın.
 
@@ -347,7 +346,7 @@ Bilgisayar üstadlarına sorununuza neyin neden olduğunu düşündüğünüzü 
 
 Yanlış giden bir şeyin anlaşılmasında en yararlı ipuçları genellikle hemen önceki olaylarda yatmaktadır. Bu nedenle, hesabınız tam olarak ne yaptığınızı ve patlamaya yol açan makine ve yazılımın ne yaptığını açıklamalıdır. Komut satırı süreçlerinde, bir oturum günlüğüne sahip olmak (örneğin, komut dosyası yardımcı programını kullanarak) ve ilgili yirmi veya daha fazla satırı alıntılamak çok faydalıdır.
 
-Karşınıza çıkan programın tanılama seçenekleri varsa (ayrıntılı için -v gibi), transkripte yararlı hata ayıklama bilgileri ekleyecek seçenekleri seçmeye çalışın. Daha fazlasının mutlaka daha iyi olmadığını unutmayın; Okuyucuyu çöplükte boğmak yerine bilgilendirecek bir hata ayıklama düzeyi seçmeye çalışın.
+Karşınıza çıkan programın tanılama seçenekleri varsa (ayrıntılı için ```-v``` gibi), transkripte yararlı hata ayıklama bilgileri ekleyecek seçenekleri seçmeye çalışın. Daha fazlasının mutlaka daha iyi olmadığını unutmayın; Okuyucuyu çöplükte boğmak yerine bilgilendirecek bir hata ayıklama düzeyi seçmeye çalışın.
 
 Anlatımınız uzun olursa (yaklaşık dört paragraftan fazla), sorunu en baştan kısaca belirtmek ve ardından kronolojik hikayeyi takip etmek yararlı olabilir. Bu şekilde bilgisayar üstadları hesabınızı okurken nelere dikkat etmeleri gerektiğini bilecekler.
 
@@ -377,9 +376,9 @@ Bu kuralın sınırlı bir istisnası vardır. Sorunun, birbirine çok yakın bi
 
 ### Sorunuz hakkında açık olun
 
-Açık uçlu sorular, açık uçlu zaman alıcı olarak algılanma eğilimindedir. Size yararlı bir yanıt verme olasılığı en yüksek olan kişiler aynı zamanda en meşgul kişilerdir (en fazla işi kendileri üstlendikleri için de olsa). Bu tür insanların açık uçlu zaman harcamalarına alerjisi vardır, dolayısıyla açık uçlu sorulara da alerjisi olma eğilimindedirler.
+Açık uçluff sorular, açık uçlu zaman alıcı olarak algılanma eğilimindedir. Size yararlı bir yanıt verme olasılığı en yüksek olan kişiler aynı zamanda en meşgul kişilerdir (en fazla işi kendileri üstlendikleri için de olsa). Bu tür insanların açık uçlu zaman harcamalarına alerjisi vardır, dolayısıyla açık uçlu sorulara da alerjisi olma eğilimindedirler.
 
-Yanıtlayanların ne yapmasını istediğinizi açıkça belirtirseniz (işaretçiler sağlayın, kod gönderin, yamanızı kontrol edin, vb.) yararlı bir yanıt alma olasılığınız daha yüksektir. Bu onların çabalarına odaklanacak ve katılımcının size yardım etmek için ayırması gereken zaman ve enerjiye dolaylı olarak bir üst sınır koyacaktır. Bu iyi.
+Yanıtlayanların ne yapmasını istediğinizi açıkça belirtirseniz (işaretçiler sağlayın, kod gönderin, yamanızı kontrol edin, vb.) yararlı bir yanıt alma olasılığınız daha yüksektir. Bu onların çabalarına odaklanacak ve katılımcının size yardım etmek için ayırması gereken zaman ve enerjiye dolaylı olarak bir üst sınır koyacaktır. Bu iyi bir şeydir.
 
 Uzmanların içinde yaşadığı dünyayı anlamak için uzmanlığı bol bir kaynak, yanıt vermek için gereken zamanı ise kıt bir kaynak olarak düşünün. Örtük olarak ne kadar az zaman taahhüdü isterseniz, gerçekten iyi ve gerçekten meşgul birinden yanıt alma olasılığınız o kadar artar.
 
@@ -391,7 +390,7 @@ Ne tür bir sorun aramaları gerektiğine dair bir ipucu vermeden, başkalarınd
 
 Bir kod sorunu hakkında kesin bilgi sahibi olmanın en etkili yolu, minimum düzeyde hata gösteren bir test senaryosu sağlamaktır. Minimum test senaryosu nedir? Bu sorunun bir örneğidir; yalnızca istenmeyen davranışı sergilemeye yetecek kadar kod var, daha fazlası değil. Minimal test senaryosunu nasıl hazırlarsınız? Sorunlu davranışı üreten kodun hangi satırının veya bölümünün olduğunu biliyorsanız, bunun bir kopyasını alın ve tam bir örnek oluşturmaya yetecek kadar destekleyici kod ekleyin (yani, kaynağın derleyici/yorumlayıcı/hangi uygulama tarafından işlenirse kabul edilebileceği kadar) . Belirli bir bölüme daraltamıyorsanız kaynağın bir kopyasını alın ve sorunlu davranışı etkilemeyen parçaları kaldırmaya başlayın. Minimum test durumunuz ne kadar küçükse o kadar iyidir (bkz. [“Hacim hassas değildir” adlı bölüm](http://www.catb.org/~esr/faqs/smart-questions.html#volume)).
 
-Gerçekten küçük ve minimal bir test senaryosu oluşturmak her zaman mümkün olmayabilir, ancak bunu yapmaya çalışmak iyi bir disiplindir. Sorunu kendi başınıza çözmek için neye ihtiyacınız olduğunu öğrenmenize yardımcı olabilir; öyle olmasa bile bilgisayar üstadları denediğinizi görmekten hoşlanır. Bu onları daha işbirlikçi hale getirecek.
+Gerçekten küçük ve minimal bir test senaryosu oluşturmak her zaman mümkün olmayabilir, ancak bunu yapmaya çalışmak iyi bir disiplindir. Sorunu kendi başınıza çözmek için neye ihtiyacınız olduğunu öğrenmenize yardımcı olabilir; öyle olmasa bile bilgisayar üstadları denediğinizi görmekten hoşlanır. Bu onları daha işbirlikçi hale getirecektir.
 
 Yalnızca bir kod incelemesi istiyorsanız, bunu önceden söyleyin ve özellikle hangi alanların gözden geçirilmesi gerektiğini düşündüğünüzü ve nedenini belirttiğinizden emin olun.
 
@@ -405,7 +404,7 @@ Bir ev ödevi sorusunun size iletildiğinden şüpheleniyorsanız ancak yine de 
 
 Yardım talebinizi "Bana yardım edebilecek kimse var mı?" gibi anlamsal olarak boş sorularla kapatma isteğinize karşı koyun. veya “Bir cevap var mı?” Birincisi: Sorun açıklamanızı yarıya kadar yetkin bir şekilde yazdıysanız, bu tür üzerinde durulmuş sorular en iyi ihtimalle gereksizdir. İkincisi: gereksiz oldukları için bilgisayar üstadları onları sinir bozucu buluyor ve mantıksal olarak kusursuz ama küçümseyen yanıtlar veriyorlar: "Evet, sana yardım edilebilir" ve "Hayır, sana yardım yok."
 
-Genel olarak, [evet veya hayır yanıtı](http://homepage.ntlworld.com./jonathan.deboynepollard/FGA/questions-with-) istemediğiniz sürece evet veya hayır şeklinde sorular sormaktan kaçınmak iyi bir şeydir. evet-veya-hayır-cevapları.html).
+Genel olarak, [evet veya hayır yanıtı](http://homepage.ntlworld.com./jonathan.deboynepollard/FGA/questions-with-yes-or-no-answers.html) istemediğiniz sürece evet veya hayır şeklinde sorular sormaktan kaçınmak iyi bir şeydir.
 
 ### Sorunuz size ait olsa bile Acil olarak işaretlemeyin
 
@@ -473,7 +472,7 @@ Kabalık algıladığınızda sakin bir şekilde tepki vermeye çalışın. Biri
 
 Öte yandan, zaman zaman kabalıklarla ve oldukça yersiz tavırlarla karşılaşacaksınız. Yukarıdakilerin diğer tarafı, gerçek suçluları oldukça sert bir şekilde çarpmanın, kötü davranışlarını keskin bir sözlü neşterle parçalara ayırmanın kabul edilebilir bir biçim olmasıdır. Ancak bunu denemeden önce zemininizden çok ama çok emin olun. Bir kabalığı düzeltmek ile anlamsız bir ateşli savaş başlatmak arasındaki çizgi o kadar incedir ki, bilgisayar üstadlarının kendileri de nadiren bu çizgiyi aşar; eğer yeniyseniz veya yabancıysanız, böyle bir hatadan kaçınma şansınız düşüktür. Eğlenceden çok bilginin peşindeyseniz, bu riski göze almaktansa parmaklarınızı klavyeden uzak tutmak daha iyidir.
 
-(Bazı insanlar, pek çok bilgisayar üstadının hafif bir otizm veya Asperger Sendromu hastası olduğunu ve aslında "normal" insan sosyal etkileşimini sağlayan bazı beyin devrelerinin eksik olduğunu iddia eder. Bu doğru olabilir veya olmayabilir. Eğer kendiniz bir bilgisayar üstadı değilseniz , eğer beynimizin hasar gördüğünü düşünürseniz, bu, tuhaflıklarımızla başa çıkmanıza yardımcı olabilir. Devam edin, umursamayacağız; ne olursak olalım *hoşumuza gidiyor* ve genellikle klinik etiketler konusunda sağlıklı bir şüpheciliğe sahibiz. .)
+(Bazı insanlar, pek çok bilgisayar üstadının hafif bir otizm veya Asperger Sendromu hastası olduğunu ve aslında "normal" insan sosyal etkileşimini sağlayan bazı beyin devrelerinin eksik olduğunu iddia eder. Bu doğru olabilir veya olmayabilir. Eğer kendiniz bir bilgisayar üstadı değilseniz , eğer beynimizin hasar gördüğünü düşünürseniz, bu, tuhaflıklarımızla başa çıkmanıza yardımcı olabilir. Devam edin, umursamayacağız; ne olursak olalım *hoşumuza gidiyor* ve genellikle klinik etiketler konusunda sağlıklı bir şüpheciliğe sahibiz.)
 
 Jeff Bigler'in [incelik filtreleri](http://www.mit.edu/~jcb/tact.html) hakkındaki gözlemleri de konuyla alakalı ve okumaya değer.
 
@@ -493,13 +492,13 @@ Yanlış yönlendirilmiş bir hiper-nezaket anlayışından dolayı, katılımc�
 
 Abartılı bir şekilde "arkadaş canlısı" (bu şekilde) veya faydalı: Birini seçin.
 
-Unutmayın: Bilgisayar üstadı size işi batırdığınızı söylediğinde ve (ne kadar sert olursa olsun) bunu bir daha yapmamanızı söylediğinde, (1) siz ve (2) topluluğu için endişeleniyor demektir. Seni görmezden gelip seni hayatından süzmesi onun için çok daha kolay olurdu. Minnettar olmayı başaramıyorsanız, en azından biraz onurlu olun, sızlanmayın ve sırf teatral olarak aşırı duyarlı bir ruha ve hak kazanma yanılsamasına sahip yeni gelen biri olduğunuz için kırılgan bir oyuncak bebek gibi davranılmayı beklemeyin. .
+Unutmayın: Bilgisayar üstadı size işi batırdığınızı söylediğinde ve (ne kadar sert olursa olsun) bunu bir daha yapmamanızı söylediğinde, (1) siz ve (2) topluluğu için endişeleniyor demektir. Seni görmezden gelip seni hayatından süzmesi onun için çok daha kolay olurdu. Minnettar olmayı başaramıyorsanız, en azından biraz onurlu olun, sızlanmayın ve sırf teatral olarak aşırı duyarlı bir ruha ve hak kazanma yanılsamasına sahip yeni gelen biri olduğunuz için kırılgan bir oyuncak bebek gibi davranılmayı beklemeyin.
 
 Bazen, siz batırmasanız bile (ya da sadece onların hayal gücünde batırmış olsanız bile), insanlar size kişisel olarak saldıracak, görünürde bir neden olmadan alev alev yanacaktır. Bu durumda şikayet etmek *gerçekten* batırmanın yoludur.
 
-Bu ateşliler ya hiçbir fikri olmayan ama kendilerini uzman sanan topallar ya da sizin hata yapıp yapmayacağınızı test eden sözde psikologlar. Diğer okuyucular ya bunları görmezden geliyor ya da kendi başlarına baş etmenin yollarını buluyor. Alevcilerin davranışları kendileri için problemler yaratır ve bunların sizi endişelendirmesine gerek yoktur.
+Bu küfürbazlar ya hiçbir fikri olmayan ama kendilerini uzman sanan topallar ya da sizin hata yapıp yapmayacağınızı test eden sözde psikologlar. Diğer okuyucular ya bunları görmezden geliyor ya da kendi başlarına baş etmenin yollarını buluyor. Alevcilerin davranışları kendileri için problemler yaratır ve bunların sizi endişelendirmesine gerek yoktur.
 	
-Kendinizi de bir alev savaşının içine çekmenize izin vermeyin. Çoğu alevin göz ardı edilmesi en iyisidir - bunların gerçekten alev olup olmadığını kontrol ettikten sonra, nasıl batırdığınıza dair işaretler değil ve gerçek sorunuza akıllıca şifrelenmiş yanıtlar değil (bu da olur).
+Kendinizin de bir çevrimiçi öfkeli veya küfürlü mesaj alışverişi içine çekilmenize izin vermeyin. Çoğu küfürlü mesajın göz ardı edilmesi en iyisidir. Bunların gerçekten küfürlü mesaj olup olmadığını kontrol ettikten sonra, nasıl batırdığınıza dair işaretler değil ve gerçek sorunuza akıllıca şifrelenmiş yanıtlar olmadıktan sonra (bu da olur).
 
 ## Sorulmaması Gereken Sorular
 
@@ -566,7 +565,7 @@ Son olarak akıllı bir şekilde nasıl soru sorulabileceğini örnek olarak gö
 
 Son soruda, "Bana bir cevap verin" ile "Lütfen aydınlanmaya ulaşmak için hangi ek teşhisleri uygulayabileceğimi bulmama yardım edin" talebi arasındaki ince ama önemli farka dikkat edin.
 
-Aslında bu son sorunun şekli, Ağustos 2001'de linux çekirdeği posta listesinde (lkml) meydana gelen gerçek bir olaya yakından dayanmaktadır. O zaman soruyu soran kişi bendim (Eric). Tyan S2462 anakartında gizemli kilitlenmeler görüyordum. Liste üyeleri sorunları çözmek için ihtiyacım olan kritik bilgileri sağladı.
+Aslında bu son sorunun şekli, Ağustos 2001'de linux çekirdeği posta listesinde ("lkml"(Linux Kernel E-posta listesi)) meydana gelen gerçek bir olaya yakından dayanmaktadır. O zaman soruyu soran kişi bendim (Eric). Tyan S2462 anakartında gizemli kilitlenmeler görüyordum. Liste üyeleri sorunları çözmek için ihtiyacım olan kritik bilgileri sağladı.
 
 Soruyu bu şekilde sorarak insanlara kafa yoracak bir şeyler verdim; Katılmalarını kolay ve çekici hale getirdim. Akranlarımın yeteneklerine saygı gösterdim ve onları bir akran olarak bana danışmaya davet ettim. Ayrıca onlara zaten koştuğum çıkmaz sokakları anlatarak zamanlarının değerine saygı duyduğumu gösterdim.
 
@@ -592,7 +591,7 @@ Linux gibi popüler yazılımlarda geliştirici başına en az 10.000 kullanıc�
 
 *Nazik olun.* Sorundan kaynaklanan stres, öyle olmasa bile insanların kaba veya aptal görünmesine neden olabilir.
 
-*İlk suçluya çevrimdışı yanıt verin.* Dürüst bir hata yapmış olabilecek birinin toplum önünde aşağılanmasına gerek yoktur. Gerçek bir acemi, arşivlerde nasıl arama yapılacağını veya SSS'nin nerede saklandığını veya yayınlandığını bilemeyebilir.
+*İlk suçluya çevrimdışı yanıt verin.* Dürüst bir hata yapmış olabilecek birinin toplum önünde aşağılanmasına gerek yoktur. Gerçek bir acemi, arşivlerde nasıl arama yapılacağını veya SSS'ların nerede saklandığını veya yayınlandığını bilemeyebilir.
 
 *Emin değilseniz, söyleyin!* Yanlış ama otoriter görünen bir cevap, hiç cevap vermemekten daha kötüdür. Bir uzman gibi konuşmak eğlenceli diye kimseyi yanlış yola yönlendirmeyin. Alçakgönüllü ve dürüst olun; hem soruyu soran kişiye hem de akranlarınıza iyi bir örnek oluşturun.
 
@@ -606,7 +605,7 @@ RTFM'yi mırıldanmak bazen tembel bir pasaklı birine yanıt verirken haklı g�
 
 Asıl soruyu cevapla! Soruyu soran kişi araştırmasını yapacak kadar ayrıntılıysa ve sorguya X, Y, Z, A, B ve C'nin zaten iyi bir sonuç alınmadan denendiğini eklediyse, "Dene" şeklinde yanıt vermek son derece yararsızdır. A veya B" veya yalnızca "X, Y, Z, A, B veya C'yi deneyin" diyen bir şeye bağlantı içeren.
 
-*Topluluğunuzun sorudan ders almasına yardımcı olun.* İyi bir soru sorduğunuz zaman kendinize şu soruyu sorun: "Kimsenin bu soruya bir daha cevap vermek zorunda kalmaması için ilgili dokümanların veya SSS'nin nasıl değişmesi gerekir?" Daha sonra belge bakımcısına bir yama gönderin.
+*Topluluğunuzun sorudan ders almasına yardımcı olun.* İyi bir soru sorduğunuz zaman kendinize şu soruyu sorun: "Kimsenin bu soruya bir daha cevap vermek zorunda kalmaması için ilgili dokümanların veya SSS'ların nasıl değişmesi gerekir?" Daha sonra belge bakımcısına bir yama gönderin.
 
 Soruyu cevaplamak için araştırma yaptıysanız, *cevabınızı kıçınızdan çıkarmış gibi yazmak yerine becerilerinizi gösterin.* İyi bir soruyu cevaplamak, aç bir insanı bir öğün doyurmaya benzer, ancak ona araştırma becerilerini örnek olarak öğretmek, göstermektir. onlara ömür boyu yiyecek yetiştirmeyi öğretiyorlar.
 
